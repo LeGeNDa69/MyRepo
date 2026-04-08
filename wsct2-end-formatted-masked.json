@@ -61,18 +61,6 @@
     },
     {
         "name": "<N/A>",
-        "email": "9599***@gmail.com",
-        "challengeId": 200053310,
-        "challengeName": "LEGEND-WSCT",
-        "creatFormat": "14.03.2026 01:23:18",
-        "unrealPnl": 0,
-        "totalBalance": 121234,
-        "realPnl": 21234,
-        "hasLost": false,
-        "rank": 6
-    },
-    {
-        "name": "<N/A>",
         "email": "mikryukov********@gmail.com",
         "challengeId": 200053404,
         "challengeName": "LEGEND-WSCT",
@@ -81,7 +69,7 @@
         "totalBalance": 121873.74389604,
         "realPnl": 21873.743896044,
         "hasLost": false,
-        "rank": 7
+        "rank": 6
     },
     {
         "name": "<N/A>",
@@ -92,6 +80,18 @@
         "unrealPnl": 0,
         "totalBalance": 171865.74488536,
         "realPnl": 21865.74488536,
+        "hasLost": false,
+        "rank": 7
+    },
+    {
+        "name": "<N/A>",
+        "email": "9599***@gmail.com",
+        "challengeId": 200053310,
+        "challengeName": "LEGEND-WSCT",
+        "creatFormat": "14.03.2026 01:23:18",
+        "unrealPnl": 0,
+        "totalBalance": 121234,
+        "realPnl": 21234,
         "hasLost": false,
         "rank": 8
     },
