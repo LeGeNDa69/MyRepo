@@ -1,0 +1,4618 @@
+[
+  {
+    "rank": 1,
+    "email": "tei***@gmail.com",
+    "challengeId": "947c1bcb-40e1-40e2-a87b-f9aa7acda459",
+    "realPnl": 37532,
+    "unrealPnl": 0,
+    "rankingPnl": 37532
+  },
+  {
+    "rank": 2,
+    "email": "mic***@gmail.com",
+    "challengeId": "d7e11982-741f-4ce6-a5ee-3a73863f4f3c",
+    "realPnl": 28346,
+    "unrealPnl": 0,
+    "rankingPnl": 28346
+  },
+  {
+    "rank": 3,
+    "email": "dip***@brixozu.com",
+    "challengeId": "2a421c29-9263-4b17-8045-633c6688b222",
+    "realPnl": 26311,
+    "unrealPnl": 0,
+    "rankingPnl": 26311
+  },
+  {
+    "rank": 4,
+    "email": "ily***@gmail.com",
+    "challengeId": "56d946a6-4595-4815-a462-2ee97ec233e5",
+    "realPnl": 21456,
+    "unrealPnl": 0,
+    "rankingPnl": 21456
+  },
+  {
+    "rank": 5,
+    "email": "v24***@yandex.ru",
+    "challengeId": "0c9bc14b-ad18-4409-ae41-c1478301aa9d",
+    "realPnl": 20323,
+    "unrealPnl": 0,
+    "rankingPnl": 20323
+  },
+  {
+    "rank": 6,
+    "email": "mon***@gmail.com",
+    "challengeId": "d113a4bf-4558-4949-95ce-0a74de60bd7d",
+    "realPnl": 18857,
+    "unrealPnl": 0,
+    "rankingPnl": 18857
+  },
+  {
+    "rank": 7,
+    "email": "del***@mail.ru",
+    "challengeId": "f01e598a-a20d-4651-9a08-c19add492050",
+    "realPnl": 17142,
+    "unrealPnl": 0,
+    "rankingPnl": 17142
+  },
+  {
+    "rank": 8,
+    "email": "dan***@gmail.com",
+    "challengeId": "c0f537f7-3031-4587-9cd7-8fd2369a23a5",
+    "realPnl": 17070,
+    "unrealPnl": 0,
+    "rankingPnl": 17070
+  },
+  {
+    "rank": 9,
+    "email": "kuk***@icloud.com",
+    "challengeId": "a34c4fed-78e9-48fe-8123-7e7d584025ff",
+    "realPnl": 16866,
+    "unrealPnl": 0,
+    "rankingPnl": 16866
+  },
+  {
+    "rank": 10,
+    "email": "nor***@gmail.com",
+    "challengeId": "1aee95fb-66b9-439e-8fd1-da085c5653de",
+    "realPnl": 14893,
+    "unrealPnl": 0,
+    "rankingPnl": 14893
+  },
+  {
+    "rank": 11,
+    "email": "dok***@gmail.com",
+    "challengeId": "f0723a7c-de42-456a-9bc7-b6790972c063",
+    "realPnl": 14621,
+    "unrealPnl": 0,
+    "rankingPnl": 14621
+  },
+  {
+    "rank": 12,
+    "email": "val***@mail.ru",
+    "challengeId": "09655613-b93f-4cde-8f48-eb508e495158",
+    "realPnl": 14520,
+    "unrealPnl": 0,
+    "rankingPnl": 14520
+  },
+  {
+    "rank": 13,
+    "email": "iva***@gmail.com",
+    "challengeId": "07cbdf32-da06-4886-825f-4cc8cd421d4a",
+    "realPnl": 14084,
+    "unrealPnl": 0,
+    "rankingPnl": 14084
+  },
+  {
+    "rank": 14,
+    "email": "yak***@ya.ru",
+    "challengeId": "68b0a6d6-7a7d-4485-8d3f-a78c80ca8d6a",
+    "realPnl": 12863,
+    "unrealPnl": 0,
+    "rankingPnl": 12863
+  },
+  {
+    "rank": 15,
+    "email": "igo***@gmail.com",
+    "challengeId": "82cd89d9-15d4-49ca-b50f-f1bd8547d9c6",
+    "realPnl": 12807,
+    "unrealPnl": 0,
+    "rankingPnl": 12807
+  },
+  {
+    "rank": 16,
+    "email": "ded***@gmail.com",
+    "challengeId": "dded38c9-1b45-4177-9448-c0148b0ba908",
+    "realPnl": 12346,
+    "unrealPnl": 0,
+    "rankingPnl": 12346
+  },
+  {
+    "rank": 17,
+    "email": "vla***@mail.ru",
+    "challengeId": "34bd2d4f-6810-46ad-ad69-71bf17747671",
+    "realPnl": 11625,
+    "unrealPnl": 0,
+    "rankingPnl": 11625
+  },
+  {
+    "rank": 18,
+    "email": "mes***@ya.ru",
+    "challengeId": "b8470df2-fe15-402e-a1b0-5d034edf814f",
+    "realPnl": 11130,
+    "unrealPnl": 0,
+    "rankingPnl": 11130
+  },
+  {
+    "rank": 19,
+    "email": "spy***@gmail.com",
+    "challengeId": "44f25ae8-500c-44e6-8b08-a8a475bde026",
+    "realPnl": 11017,
+    "unrealPnl": 0,
+    "rankingPnl": 11017
+  },
+  {
+    "rank": 20,
+    "email": "jon***@gmail.com",
+    "challengeId": "b795c64d-ad6b-4abf-9533-5087e91931f8",
+    "realPnl": 10938,
+    "unrealPnl": 0,
+    "rankingPnl": 10938
+  },
+  {
+    "rank": 21,
+    "email": "muh***@gmail.com",
+    "challengeId": "d0f1c5a9-632e-43cd-a500-6945970ec4c9",
+    "realPnl": -51,
+    "unrealPnl": 10942,
+    "rankingPnl": 10891
+  },
+  {
+    "rank": 22,
+    "email": "ilj***@gmail.com",
+    "challengeId": "e0d4a389-e4f2-474a-97d2-9247a8851f87",
+    "realPnl": 10510,
+    "unrealPnl": 0,
+    "rankingPnl": 10510
+  },
+  {
+    "rank": 23,
+    "email": "fes***@mail.ru",
+    "challengeId": "ed3d66ed-3ffd-4134-b017-bd56da13796a",
+    "realPnl": 10423,
+    "unrealPnl": 0,
+    "rankingPnl": 10423
+  },
+  {
+    "rank": 24,
+    "email": "int***@gmail.com",
+    "challengeId": "3028bd6a-c6e8-434a-854c-57cfa5b04ca5",
+    "realPnl": 10182,
+    "unrealPnl": 0,
+    "rankingPnl": 10182
+  },
+  {
+    "rank": 25,
+    "email": "new***@gmail.com",
+    "challengeId": "463a7e36-a106-4505-91b4-b798e26a0e8a",
+    "realPnl": 10058,
+    "unrealPnl": 0,
+    "rankingPnl": 10058
+  },
+  {
+    "rank": 26,
+    "email": "ukl***@gmail.com",
+    "challengeId": "d3a9095f-1cb8-4dea-8eed-39784bfc28c3",
+    "realPnl": 10010,
+    "unrealPnl": 0,
+    "rankingPnl": 10010
+  },
+  {
+    "rank": 27,
+    "email": "pap***@yandex.by",
+    "challengeId": "0326d1cf-8d0f-48aa-a21d-67828c96ab8e",
+    "realPnl": -85,
+    "unrealPnl": 9750,
+    "rankingPnl": 9665
+  },
+  {
+    "rank": 28,
+    "email": "rus***@gmail.com",
+    "challengeId": "696fba09-0bd3-4223-8943-75232d239ece",
+    "realPnl": -89,
+    "unrealPnl": 9637,
+    "rankingPnl": 9548
+  },
+  {
+    "rank": 29,
+    "email": "lon***@gmail.com",
+    "challengeId": "0f1c3fba-c9c6-48ee-ac0d-e59936850fc7",
+    "realPnl": 9193,
+    "unrealPnl": 0,
+    "rankingPnl": 9193
+  },
+  {
+    "rank": 30,
+    "email": "ef1***@gmail.com",
+    "challengeId": "e64a5113-055a-4abe-84ac-c1ddd8617d6a",
+    "realPnl": 9550,
+    "unrealPnl": -799,
+    "rankingPnl": 8751
+  },
+  {
+    "rank": 31,
+    "email": "vas***@gmail.com",
+    "challengeId": "3e9a1201-2b86-46a0-8522-2dfe1800f174",
+    "realPnl": 8513,
+    "unrealPnl": 0,
+    "rankingPnl": 8513
+  },
+  {
+    "rank": 32,
+    "email": "lfu***@ukr.net",
+    "challengeId": "aaa73716-e414-4176-8a03-0a615e4a6e06",
+    "realPnl": 8287,
+    "unrealPnl": 0,
+    "rankingPnl": 8287
+  },
+  {
+    "rank": 33,
+    "email": "vit***@yandex.com",
+    "challengeId": "92f43746-8ee8-47ec-8009-749370f9caf8",
+    "realPnl": -802,
+    "unrealPnl": 8889,
+    "rankingPnl": 8087
+  },
+  {
+    "rank": 34,
+    "email": "has***@gmail.com",
+    "challengeId": "ae1b6885-145f-4818-9d6c-9b625fafcbfc",
+    "realPnl": 8002,
+    "unrealPnl": 0,
+    "rankingPnl": 8002
+  },
+  {
+    "rank": 35,
+    "email": "zyo***@gmail.com",
+    "challengeId": "8aafb69a-62ee-40b6-be06-00dfe92887d3",
+    "realPnl": 7435,
+    "unrealPnl": 0,
+    "rankingPnl": 7435
+  },
+  {
+    "rank": 36,
+    "email": "kov***@gmail.com",
+    "challengeId": "c83a217c-5d26-4658-9b93-b6e2b737f383",
+    "realPnl": 7430,
+    "unrealPnl": 0,
+    "rankingPnl": 7430
+  },
+  {
+    "rank": 37,
+    "email": "ili***@mail.ru",
+    "challengeId": "87934c26-5df0-422b-8643-8cdce38bda6c",
+    "realPnl": -125,
+    "unrealPnl": 7457,
+    "rankingPnl": 7331
+  },
+  {
+    "rank": 38,
+    "email": "osm***@gmail.com",
+    "challengeId": "d61e2a66-1b21-4923-a0fc-277d73f63907",
+    "realPnl": 7322,
+    "unrealPnl": 0,
+    "rankingPnl": 7322
+  },
+  {
+    "rank": 39,
+    "email": "kre***@mail.ru",
+    "challengeId": "d1e47148-272a-4683-8ed6-6131598b3ec1",
+    "realPnl": 7104,
+    "unrealPnl": 0,
+    "rankingPnl": 7104
+  },
+  {
+    "rank": 40,
+    "email": "suk***@gmail.com",
+    "challengeId": "16ee0f66-212e-4a6e-951f-ea78aa967d88",
+    "realPnl": 151,
+    "unrealPnl": 6829,
+    "rankingPnl": 6979
+  },
+  {
+    "rank": 41,
+    "email": "mak***@gmail.com",
+    "challengeId": "247127ae-5fe1-402b-8c15-3ba885c88b41",
+    "realPnl": 6313,
+    "unrealPnl": 0,
+    "rankingPnl": 6313
+  },
+  {
+    "rank": 42,
+    "email": "mar***@yandex.ru",
+    "challengeId": "475139b7-bf5d-493b-828f-8240d4347460",
+    "realPnl": 1062,
+    "unrealPnl": 5246,
+    "rankingPnl": 6308
+  },
+  {
+    "rank": 43,
+    "email": "igo***@gmail.com",
+    "challengeId": "d3d1491f-3659-4416-9673-23bda54b4ef5",
+    "realPnl": 6283,
+    "unrealPnl": 0,
+    "rankingPnl": 6283
+  },
+  {
+    "rank": 44,
+    "email": "nik***@gmail.com",
+    "challengeId": "6af7638a-2e27-4a68-89b4-9a073658d5cc",
+    "realPnl": 6045,
+    "unrealPnl": 0,
+    "rankingPnl": 6045
+  },
+  {
+    "rank": 45,
+    "email": "bob***@gmail.com",
+    "challengeId": "e8353eb1-5fc9-4cf5-9174-338d5e02d95d",
+    "realPnl": -3785,
+    "unrealPnl": 9622,
+    "rankingPnl": 5837
+  },
+  {
+    "rank": 46,
+    "email": "m4t***@yandex.ru",
+    "challengeId": "9c334f53-8aa7-4e17-ba1a-0661b326449d",
+    "realPnl": 5396,
+    "unrealPnl": 0,
+    "rankingPnl": 5396
+  },
+  {
+    "rank": 47,
+    "email": "abd***@gmail.com",
+    "challengeId": "0f00083e-c951-4fa8-92a3-8a33a4e5d383",
+    "realPnl": 1718,
+    "unrealPnl": 3517,
+    "rankingPnl": 5236
+  },
+  {
+    "rank": 48,
+    "email": "abc***@gmail.com",
+    "challengeId": "11b5f91c-9b28-43ba-a1b5-f1244f214064",
+    "realPnl": 5041,
+    "unrealPnl": 0,
+    "rankingPnl": 5041
+  },
+  {
+    "rank": 49,
+    "email": "yur***@yandex.ru",
+    "challengeId": "19589d0b-4c70-4aa0-9a4b-44ff7bd79736",
+    "realPnl": 4657,
+    "unrealPnl": 0,
+    "rankingPnl": 4657
+  },
+  {
+    "rank": 50,
+    "email": "lil***@gmail.com",
+    "challengeId": "eaad8524-3bc5-4dc0-b951-3d31f6a59a88",
+    "realPnl": 4486,
+    "unrealPnl": 0,
+    "rankingPnl": 4486
+  },
+  {
+    "rank": 51,
+    "email": "nsv***@bk.ru",
+    "challengeId": "1bf819db-9252-4665-ade7-a0f3e7363489",
+    "realPnl": 4414,
+    "unrealPnl": 0,
+    "rankingPnl": 4414
+  },
+  {
+    "rank": 52,
+    "email": "mil***@gmail.com",
+    "challengeId": "464a29d4-8602-4fcc-965f-f45cc5c424b9",
+    "realPnl": 5534,
+    "unrealPnl": -1385,
+    "rankingPnl": 4149
+  },
+  {
+    "rank": 53,
+    "email": "sas***@mail.ru",
+    "challengeId": "9cd7a980-c639-40fd-91f7-24af2d79f487",
+    "realPnl": 2329,
+    "unrealPnl": 1720,
+    "rankingPnl": 4049
+  },
+  {
+    "rank": 54,
+    "email": "yur***@gmail.com",
+    "challengeId": "1a5d8332-af40-4553-b8e5-f4fa01047e50",
+    "realPnl": 4019,
+    "unrealPnl": 0,
+    "rankingPnl": 4019
+  },
+  {
+    "rank": 55,
+    "email": "max***@yandex.by",
+    "challengeId": "849d9593-ddfd-4204-b650-04d709ede2a9",
+    "realPnl": 3853,
+    "unrealPnl": 0,
+    "rankingPnl": 3853
+  },
+  {
+    "rank": 56,
+    "email": "ooo***@gmail.com",
+    "challengeId": "0609731d-25d1-4057-a74b-1473e71a78fa",
+    "realPnl": -2420,
+    "unrealPnl": 5912,
+    "rankingPnl": 3492
+  },
+  {
+    "rank": 57,
+    "email": "v.t***@gmail.com",
+    "challengeId": "a88e503d-df6c-4a58-823e-e248d5167eac",
+    "realPnl": 3239,
+    "unrealPnl": 0,
+    "rankingPnl": 3239
+  },
+  {
+    "rank": 58,
+    "email": "ser***@mail.ru",
+    "challengeId": "ed8309b6-f042-4c26-9b5a-55ac3aa5fedf",
+    "realPnl": -65,
+    "unrealPnl": 3195,
+    "rankingPnl": 3130
+  },
+  {
+    "rank": 59,
+    "email": "has***@gmail.com",
+    "challengeId": "f43d5d25-c2ee-409a-8c14-350b6a8fe1ed",
+    "realPnl": 3219,
+    "unrealPnl": -109,
+    "rankingPnl": 3110
+  },
+  {
+    "rank": 60,
+    "email": "kat***@gmail.com",
+    "challengeId": "0fa84707-bdc8-41c4-b5fb-6e3dcc61a461",
+    "realPnl": 3085,
+    "unrealPnl": 0,
+    "rankingPnl": 3085
+  },
+  {
+    "rank": 61,
+    "email": "ser***@gmail.com",
+    "challengeId": "2c3573e3-c818-41fc-9a01-ebe08536f6ab",
+    "realPnl": 3026,
+    "unrealPnl": 0,
+    "rankingPnl": 3026
+  },
+  {
+    "rank": 62,
+    "email": "vad***@gmail.com",
+    "challengeId": "672d3618-3e9c-4bc0-a4eb-ad778f46d46c",
+    "realPnl": 222,
+    "unrealPnl": 2731,
+    "rankingPnl": 2954
+  },
+  {
+    "rank": 63,
+    "email": "svi***@ukr.net",
+    "challengeId": "eca329db-1080-4edb-824c-5095f23c4e6f",
+    "realPnl": 3539,
+    "unrealPnl": -739,
+    "rankingPnl": 2800
+  },
+  {
+    "rank": 64,
+    "email": "mik***@gmail.com",
+    "challengeId": "b3d54e02-a27d-48e5-b9fd-e8d37808af88",
+    "realPnl": 1175,
+    "unrealPnl": 1497,
+    "rankingPnl": 2672
+  },
+  {
+    "rank": 65,
+    "email": "oat***@gmail.com",
+    "challengeId": "52f647ef-5d2c-4882-a276-51b16b814289",
+    "realPnl": 2666,
+    "unrealPnl": 0,
+    "rankingPnl": 2666
+  },
+  {
+    "rank": 66,
+    "email": "hh4***@mail.ru",
+    "challengeId": "165cbbe2-c760-47e4-9679-4f88096c13f4",
+    "realPnl": 2627,
+    "unrealPnl": 0,
+    "rankingPnl": 2627
+  },
+  {
+    "rank": 67,
+    "email": "mil***@gmail.com",
+    "challengeId": "faeea86c-5456-4a0d-8169-e0f699bad696",
+    "realPnl": 2516,
+    "unrealPnl": 0,
+    "rankingPnl": 2516
+  },
+  {
+    "rank": 68,
+    "email": "dan***@gmail.com",
+    "challengeId": "25a86f0e-04fb-4ed2-9d87-eea368665a50",
+    "realPnl": 2510,
+    "unrealPnl": 0,
+    "rankingPnl": 2510
+  },
+  {
+    "rank": 69,
+    "email": "kal***@gmail.com",
+    "challengeId": "68cda80c-6de7-44a6-97b8-c052f12a6a35",
+    "realPnl": 2478,
+    "unrealPnl": 0,
+    "rankingPnl": 2478
+  },
+  {
+    "rank": 70,
+    "email": "ben***@gmail.com",
+    "challengeId": "20aa04bb-1c9f-433e-8260-de673a249bec",
+    "realPnl": 2419,
+    "unrealPnl": 0,
+    "rankingPnl": 2419
+  },
+  {
+    "rank": 71,
+    "email": "ler***@gmail.com",
+    "challengeId": "4257a5a0-f9d3-4151-9bd8-2899d8b6ec97",
+    "realPnl": -26,
+    "unrealPnl": 2286,
+    "rankingPnl": 2260
+  },
+  {
+    "rank": 72,
+    "email": "did***@mail.ru",
+    "challengeId": "728e2de7-ac2d-40ba-ad28-80b6b1c4c721",
+    "realPnl": 3088,
+    "unrealPnl": -878,
+    "rankingPnl": 2210
+  },
+  {
+    "rank": 73,
+    "email": "ser***@gmail.com",
+    "challengeId": "3d2f671b-0ee8-4457-a0f4-e599c1110018",
+    "realPnl": 2141,
+    "unrealPnl": 0,
+    "rankingPnl": 2141
+  },
+  {
+    "rank": 74,
+    "email": "kli***@gmail.com",
+    "challengeId": "372a3ca4-c0a1-401f-be6f-5452d16dbeb9",
+    "realPnl": 2852,
+    "unrealPnl": -730,
+    "rankingPnl": 2122
+  },
+  {
+    "rank": 75,
+    "email": "nik***@gmail.com",
+    "challengeId": "bb057299-51e8-41bd-9a59-a0b16cb069eb",
+    "realPnl": 1761,
+    "unrealPnl": 0,
+    "rankingPnl": 1761
+  },
+  {
+    "rank": 76,
+    "email": "poc***@gmail.com",
+    "challengeId": "998ee774-ee6d-4ff9-b81a-bd6412300a1f",
+    "realPnl": 3094,
+    "unrealPnl": -1363,
+    "rankingPnl": 1730
+  },
+  {
+    "rank": 77,
+    "email": "kap***@gmail.com",
+    "challengeId": "2a001662-e98e-465c-a8f9-67a85920e514",
+    "realPnl": -750,
+    "unrealPnl": 2476,
+    "rankingPnl": 1725
+  },
+  {
+    "rank": 78,
+    "email": "mit***@gmail.com",
+    "challengeId": "70b3f97f-9934-4e79-903c-0255ef9dbc0e",
+    "realPnl": 1588,
+    "unrealPnl": 0,
+    "rankingPnl": 1588
+  },
+  {
+    "rank": 79,
+    "email": "sta***@gmail.com",
+    "challengeId": "2fe15444-7020-41d9-b863-41ebc2474255",
+    "realPnl": 1522,
+    "unrealPnl": 0,
+    "rankingPnl": 1522
+  },
+  {
+    "rank": 80,
+    "email": "ftx***@gmail.com",
+    "challengeId": "adc83fc5-66ea-402f-a83f-194e4ee20036",
+    "realPnl": 1189,
+    "unrealPnl": 333,
+    "rankingPnl": 1522
+  },
+  {
+    "rank": 81,
+    "email": "kol***@gmail.com",
+    "challengeId": "660883a1-58df-40e9-ab68-8a1a38fd7798",
+    "realPnl": -2028,
+    "unrealPnl": 3540,
+    "rankingPnl": 1512
+  },
+  {
+    "rank": 82,
+    "email": "ser***@gmail.com",
+    "challengeId": "fbf18b0b-61f5-4e25-bab3-9f7a0e265c9b",
+    "realPnl": 1484,
+    "unrealPnl": 0,
+    "rankingPnl": 1484
+  },
+  {
+    "rank": 83,
+    "email": "igo***@gmail.com",
+    "challengeId": "68ba6f62-f344-4fa5-9caf-d12b1a3c129e",
+    "realPnl": 0,
+    "unrealPnl": 1482,
+    "rankingPnl": 1482
+  },
+  {
+    "rank": 84,
+    "email": "a88***@gmail.com",
+    "challengeId": "ddb56439-387c-490f-8c2d-d513abe8cbea",
+    "realPnl": 1463,
+    "unrealPnl": 0,
+    "rankingPnl": 1463
+  },
+  {
+    "rank": 85,
+    "email": "ill***@rambler.ru",
+    "challengeId": "16670b77-87b0-46f0-84ac-336e86685c56",
+    "realPnl": 1206,
+    "unrealPnl": 0,
+    "rankingPnl": 1206
+  },
+  {
+    "rank": 86,
+    "email": "pok***@list.ru",
+    "challengeId": "2466ebb0-76e6-4fcc-bad2-2ce2d5a9784a",
+    "realPnl": -775,
+    "unrealPnl": 1881,
+    "rankingPnl": 1107
+  },
+  {
+    "rank": 87,
+    "email": "her***@gmail.com",
+    "challengeId": "ea29a7aa-c72f-4a61-afaa-b6f967e2791d",
+    "realPnl": 967,
+    "unrealPnl": 93,
+    "rankingPnl": 1061
+  },
+  {
+    "rank": 88,
+    "email": "197***@gmail.com",
+    "challengeId": "61887024-b972-41e5-8673-74ee012b7bef",
+    "realPnl": -63,
+    "unrealPnl": 1103,
+    "rankingPnl": 1040
+  },
+  {
+    "rank": 89,
+    "email": "s96***@ya.ru",
+    "challengeId": "5cbe694f-cd21-4573-b4ae-d06afa07144a",
+    "realPnl": 1029,
+    "unrealPnl": 0,
+    "rankingPnl": 1029
+  },
+  {
+    "rank": 90,
+    "email": "tam***@gmail.com",
+    "challengeId": "c6ebc8bc-bf4f-4cf2-bcc7-75271fdcbc55",
+    "realPnl": 973,
+    "unrealPnl": 0,
+    "rankingPnl": 973
+  },
+  {
+    "rank": 91,
+    "email": "lib***@gmail.com",
+    "challengeId": "a5c3ac4b-fc8d-49da-ab0c-83f9f972dbc8",
+    "realPnl": 935,
+    "unrealPnl": 0,
+    "rankingPnl": 935
+  },
+  {
+    "rank": 92,
+    "email": "pus***@mail.ru",
+    "challengeId": "3207589f-9282-4130-ac89-990f67d05808",
+    "realPnl": 920,
+    "unrealPnl": 0,
+    "rankingPnl": 920
+  },
+  {
+    "rank": 93,
+    "email": "ass***@gmail.com",
+    "challengeId": "11ca7392-3a6d-4e2b-aaae-083a54d4db93",
+    "realPnl": 861,
+    "unrealPnl": 0,
+    "rankingPnl": 861
+  },
+  {
+    "rank": 94,
+    "email": "zhe***@gmail.com",
+    "challengeId": "78f26c6c-1fb6-40ff-a9bd-4a349d0023d7",
+    "realPnl": 1766,
+    "unrealPnl": -1032,
+    "rankingPnl": 733
+  },
+  {
+    "rank": 95,
+    "email": "inv***@gmail.com",
+    "challengeId": "bc11b819-34a4-4cfc-8282-fd34b0b793ef",
+    "realPnl": 2037,
+    "unrealPnl": -1328,
+    "rankingPnl": 708
+  },
+  {
+    "rank": 96,
+    "email": "dek***@gmail.com",
+    "challengeId": "3390a94f-af29-40d6-a271-d93d54ae992c",
+    "realPnl": 53,
+    "unrealPnl": 629,
+    "rankingPnl": 682
+  },
+  {
+    "rank": 97,
+    "email": "edo***@mail.ru",
+    "challengeId": "7cd71c48-0e1c-41eb-bd97-957bb9e12035",
+    "realPnl": 642,
+    "unrealPnl": 0,
+    "rankingPnl": 642
+  },
+  {
+    "rank": 98,
+    "email": "dea***@gmail.com",
+    "challengeId": "9ab8ef08-c365-4f7c-8256-ca258839e975",
+    "realPnl": 631,
+    "unrealPnl": 9,
+    "rankingPnl": 641
+  },
+  {
+    "rank": 99,
+    "email": "dyp***@gmail.com",
+    "challengeId": "0546af6a-1bb8-4464-a9ce-5600bc284856",
+    "realPnl": -761,
+    "unrealPnl": 1399,
+    "rankingPnl": 638
+  },
+  {
+    "rank": 100,
+    "email": "vas***@ukr.net",
+    "challengeId": "68e35464-88f4-47a2-9de6-ef4c5c4af1b0",
+    "realPnl": 577,
+    "unrealPnl": 0,
+    "rankingPnl": 577
+  },
+  {
+    "rank": 101,
+    "email": "917***@gmail.com",
+    "challengeId": "40b63000-1dab-4024-9f55-6ae42c4d5f02",
+    "realPnl": 601,
+    "unrealPnl": -62,
+    "rankingPnl": 539
+  },
+  {
+    "rank": 102,
+    "email": "jul***@yandex.ru",
+    "challengeId": "86b95c79-1d60-4089-941a-f89233055f5a",
+    "realPnl": 537,
+    "unrealPnl": 0,
+    "rankingPnl": 537
+  },
+  {
+    "rank": 103,
+    "email": "ada***@gmail.com",
+    "challengeId": "597148f0-814a-41ee-9730-97b78fc50a53",
+    "realPnl": 459,
+    "unrealPnl": 0,
+    "rankingPnl": 459
+  },
+  {
+    "rank": 104,
+    "email": "ele***@yahoo.com",
+    "challengeId": "d8baacb7-809a-43ae-933c-037a4ba2e785",
+    "realPnl": 458,
+    "unrealPnl": 0,
+    "rankingPnl": 458
+  },
+  {
+    "rank": 105,
+    "email": "ako***@ya.ru",
+    "challengeId": "d0beae5b-b5c6-45cc-b6c3-680f49ca085a",
+    "realPnl": 431,
+    "unrealPnl": 0,
+    "rankingPnl": 431
+  },
+  {
+    "rank": 106,
+    "email": "mrm***@gmail.com",
+    "challengeId": "55a030e9-89d0-42b5-81f2-e2979db61e08",
+    "realPnl": 381,
+    "unrealPnl": 0,
+    "rankingPnl": 381
+  },
+  {
+    "rank": 107,
+    "email": "sas***@gmail.com",
+    "challengeId": "a937c600-375b-4940-a3ad-bac36437eea3",
+    "realPnl": 1059,
+    "unrealPnl": -695,
+    "rankingPnl": 365
+  },
+  {
+    "rank": 108,
+    "email": "art***@mail.ru",
+    "challengeId": "7bc45483-7c6f-4ee9-9334-96c573a47f98",
+    "realPnl": 1934,
+    "unrealPnl": -1600,
+    "rankingPnl": 334
+  },
+  {
+    "rank": 109,
+    "email": "rab***@gmail.com",
+    "challengeId": "b04ef6c1-c9c1-4d5c-82f1-68f19fca5039",
+    "realPnl": 323,
+    "unrealPnl": 0,
+    "rankingPnl": 323
+  },
+  {
+    "rank": 110,
+    "email": "max***@gmail.com",
+    "challengeId": "411064ab-d27f-44a9-9bb0-b431710c1354",
+    "realPnl": -4026,
+    "unrealPnl": 4313,
+    "rankingPnl": 287
+  },
+  {
+    "rank": 111,
+    "email": "kvv***@gmail.com",
+    "challengeId": "79e3a5be-7ffa-4fbf-a43c-d6cac765375c",
+    "realPnl": 233,
+    "unrealPnl": 0,
+    "rankingPnl": 233
+  },
+  {
+    "rank": 112,
+    "email": "kaz***@yandex.ru",
+    "challengeId": "f12b5680-f66d-423f-a607-b7876cfb2ee8",
+    "realPnl": 213,
+    "unrealPnl": 0,
+    "rankingPnl": 213
+  },
+  {
+    "rank": 113,
+    "email": "jay***@gmail.com",
+    "challengeId": "8200cb95-63c9-457a-8ffb-4d8ac1b6547a",
+    "realPnl": -1096,
+    "unrealPnl": 1279,
+    "rankingPnl": 184
+  },
+  {
+    "rank": 114,
+    "email": "lil***@gmail.com",
+    "challengeId": "687fcc2b-1ebe-4e49-b2d0-5a7243dd9fe6",
+    "realPnl": 145,
+    "unrealPnl": 0,
+    "rankingPnl": 145
+  },
+  {
+    "rank": 115,
+    "email": "oib***@mail.ru",
+    "challengeId": "23a5dd43-0677-4d8c-aee8-8e957dcb70b7",
+    "realPnl": 102,
+    "unrealPnl": 22,
+    "rankingPnl": 123
+  },
+  {
+    "rank": 116,
+    "email": "igo***@gmail.com",
+    "challengeId": "68075823-e028-4dba-9f5b-4014c6480870",
+    "realPnl": -17,
+    "unrealPnl": 95,
+    "rankingPnl": 78
+  },
+  {
+    "rank": 117,
+    "email": "gus***@gmail.com",
+    "challengeId": "a1154224-aee1-453a-9203-3eabca694d30",
+    "realPnl": 348,
+    "unrealPnl": -279,
+    "rankingPnl": 69
+  },
+  {
+    "rank": 118,
+    "email": "for***@gmail.com",
+    "challengeId": "b516980a-3647-41ca-b5d8-86f2864abf78",
+    "realPnl": 23,
+    "unrealPnl": 0,
+    "rankingPnl": 23
+  },
+  {
+    "rank": 119,
+    "email": "av.***@gmail.com",
+    "challengeId": "a73b64f2-3117-46da-81db-c806e24627f9",
+    "realPnl": 0,
+    "unrealPnl": 0,
+    "rankingPnl": 0
+  },
+  {
+    "rank": 120,
+    "email": "jak***@gmail.com",
+    "challengeId": "cc1d9b8e-5bc3-4fdb-a480-e8bcac0cbd93",
+    "realPnl": 0,
+    "unrealPnl": 0,
+    "rankingPnl": 0
+  },
+  {
+    "rank": 121,
+    "email": "vad***@gmail.com",
+    "challengeId": "78b4183d-9ecb-47bd-b515-a8f030908438",
+    "realPnl": 0,
+    "unrealPnl": 0,
+    "rankingPnl": 0
+  },
+  {
+    "rank": 122,
+    "email": "pro***@gmail.com",
+    "challengeId": "046777b8-6b30-47c0-ae78-f2dd18bcafd5",
+    "realPnl": 0,
+    "unrealPnl": 0,
+    "rankingPnl": 0
+  },
+  {
+    "rank": 123,
+    "email": "s23***@icloud.com",
+    "challengeId": "2985bfc7-2988-4954-84b8-bbf65dd2beb1",
+    "realPnl": 0,
+    "unrealPnl": 0,
+    "rankingPnl": 0
+  },
+  {
+    "rank": 124,
+    "email": "lis***@gmail.com",
+    "challengeId": "98123909-4c30-49e0-8462-a1bf5e57a92f",
+    "realPnl": 0,
+    "unrealPnl": 0,
+    "rankingPnl": 0
+  },
+  {
+    "rank": 125,
+    "email": "ato***@gmail.com",
+    "challengeId": "3d3ed6ab-9048-4955-a276-40a7375b5813",
+    "realPnl": 0,
+    "unrealPnl": 0,
+    "rankingPnl": 0
+  },
+  {
+    "rank": 126,
+    "email": "rub***@mail.ru",
+    "challengeId": "f14bb0a2-ce15-4a93-b766-714aca6efa15",
+    "realPnl": 0,
+    "unrealPnl": 0,
+    "rankingPnl": 0
+  },
+  {
+    "rank": 127,
+    "email": "ord***@gmail.com",
+    "challengeId": "20172241-51d2-4f46-af3e-5a4e597fe18b",
+    "realPnl": 0,
+    "unrealPnl": 0,
+    "rankingPnl": 0
+  },
+  {
+    "rank": 128,
+    "email": "koy***@bncinema.com",
+    "challengeId": "beef99a7-5554-4d3c-b184-bc656e9484e4",
+    "realPnl": 0,
+    "unrealPnl": 0,
+    "rankingPnl": 0
+  },
+  {
+    "rank": 129,
+    "email": "spy***@gmail.com",
+    "challengeId": "c9a10241-3dfe-42f2-9d9e-8e7b6343d4a3",
+    "realPnl": 0,
+    "unrealPnl": 0,
+    "rankingPnl": 0
+  },
+  {
+    "rank": 130,
+    "email": "goo***@mail.ru",
+    "challengeId": "e676d605-83c5-49e3-b013-3578b6a5980c",
+    "realPnl": 0,
+    "unrealPnl": 0,
+    "rankingPnl": 0
+  },
+  {
+    "rank": 131,
+    "email": "wol***@bluemailx.com",
+    "challengeId": "b270e05e-5ffd-483b-ac59-93855206ab22",
+    "realPnl": 0,
+    "unrealPnl": 0,
+    "rankingPnl": 0
+  },
+  {
+    "rank": 132,
+    "email": "ars***@gmail.com",
+    "challengeId": "e6a55d61-57cb-4fa7-83c2-97cc83e9b84e",
+    "realPnl": 0,
+    "unrealPnl": 0,
+    "rankingPnl": 0
+  },
+  {
+    "rank": 133,
+    "email": "mr.***@mail.ru",
+    "challengeId": "17b41307-779c-48a0-a0fa-18be62104b16",
+    "realPnl": 0,
+    "unrealPnl": 0,
+    "rankingPnl": 0
+  },
+  {
+    "rank": 134,
+    "email": "637***@gmail.com",
+    "challengeId": "b272f683-773d-41e7-96ea-06d683fd6572",
+    "realPnl": 0,
+    "unrealPnl": 0,
+    "rankingPnl": 0
+  },
+  {
+    "rank": 135,
+    "email": "smm***@gmail.com",
+    "challengeId": "44d0e455-14c6-4c47-a8a5-75109b59c1c0",
+    "realPnl": 0,
+    "unrealPnl": 0,
+    "rankingPnl": 0
+  },
+  {
+    "rank": 136,
+    "email": "pav***@yandex.ru",
+    "challengeId": "8b903fc1-c96d-4037-b556-3c259ce76cdc",
+    "realPnl": 0,
+    "unrealPnl": 0,
+    "rankingPnl": 0
+  },
+  {
+    "rank": 137,
+    "email": "j69***@gmail.com",
+    "challengeId": "f37c675c-57fb-4a37-9162-55158308bc71",
+    "realPnl": 376,
+    "unrealPnl": -451,
+    "rankingPnl": -75
+  },
+  {
+    "rank": 138,
+    "email": "kam***@gmail.com",
+    "challengeId": "0a1a6a53-719b-4c70-a9f0-47a6662e6faf",
+    "realPnl": -22,
+    "unrealPnl": -57,
+    "rankingPnl": -79
+  },
+  {
+    "rank": 139,
+    "email": "ali***@gmail.com",
+    "challengeId": "2c079338-e6c5-4f5e-8ef9-081bf27c9f48",
+    "realPnl": -96,
+    "unrealPnl": 0,
+    "rankingPnl": -96
+  },
+  {
+    "rank": 140,
+    "email": "per***@gmail.com",
+    "challengeId": "bfbfd200-5392-4cfb-af0f-492a21a85f3a",
+    "realPnl": 257,
+    "unrealPnl": -359,
+    "rankingPnl": -101
+  },
+  {
+    "rank": 141,
+    "email": "nbp***@gmail.com",
+    "challengeId": "15ee0ce5-b94b-4e8c-ac14-73f14140cb88",
+    "realPnl": -185,
+    "unrealPnl": 0,
+    "rankingPnl": -185
+  },
+  {
+    "rank": 142,
+    "email": "cro***@mail.ru",
+    "challengeId": "0a543e94-e665-4fbc-80b5-812660461bc4",
+    "realPnl": -113,
+    "unrealPnl": -165,
+    "rankingPnl": -278
+  },
+  {
+    "rank": 143,
+    "email": "tan***@gmail.com",
+    "challengeId": "229a2c1e-dc2b-47d5-aa8c-56c14d2c5dad",
+    "realPnl": -21,
+    "unrealPnl": -298,
+    "rankingPnl": -318
+  },
+  {
+    "rank": 144,
+    "email": "xec***@afterdo.com",
+    "challengeId": "5516a530-808a-4946-90c9-a83d7c1ccafd",
+    "realPnl": -481,
+    "unrealPnl": 129,
+    "rankingPnl": -352
+  },
+  {
+    "rank": 145,
+    "email": "gl.***@gmail.com",
+    "challengeId": "f0bc790b-7f22-4c1a-a7cd-6d04daab0469",
+    "realPnl": -310,
+    "unrealPnl": -82,
+    "rankingPnl": -392
+  },
+  {
+    "rank": 146,
+    "email": "vik***@gmail.com",
+    "challengeId": "ed329c9a-c5b2-4055-bc37-389c34fc90fe",
+    "realPnl": -3,
+    "unrealPnl": -438,
+    "rankingPnl": -441
+  },
+  {
+    "rank": 147,
+    "email": "lab***@gmail.com",
+    "challengeId": "00c52855-acfc-4ec6-b3b6-c09f1816e9c3",
+    "realPnl": 363,
+    "unrealPnl": -809,
+    "rankingPnl": -446
+  },
+  {
+    "rank": 148,
+    "email": "pro***@gmail.com",
+    "challengeId": "5eece716-c07a-4238-a9ea-dc57a6442b33",
+    "realPnl": -76,
+    "unrealPnl": -406,
+    "rankingPnl": -481
+  },
+  {
+    "rank": 149,
+    "email": "evr***@gmail.com",
+    "challengeId": "dad020e6-4b09-4e1f-ab93-57ad7445191d",
+    "realPnl": -533,
+    "unrealPnl": 0,
+    "rankingPnl": -533
+  },
+  {
+    "rank": 150,
+    "email": "vru***@gmail.com",
+    "challengeId": "368c9811-e681-4da7-bd6b-8fc765ed2aea",
+    "realPnl": -581,
+    "unrealPnl": 0,
+    "rankingPnl": -581
+  },
+  {
+    "rank": 151,
+    "email": "iva***@gmail.com",
+    "challengeId": "70cea4a6-87de-43d4-83bc-1e7debec38e8",
+    "realPnl": -605,
+    "unrealPnl": 0,
+    "rankingPnl": -605
+  },
+  {
+    "rank": 152,
+    "email": "jek***@gmail.com",
+    "challengeId": "c581425a-e591-4ecd-962d-f009b40e9bbc",
+    "realPnl": -623,
+    "unrealPnl": 0,
+    "rankingPnl": -623
+  },
+  {
+    "rank": 153,
+    "email": "vja***@gmail.com",
+    "challengeId": "679497a8-874c-4f52-939a-264c88e19f18",
+    "realPnl": -626,
+    "unrealPnl": 0,
+    "rankingPnl": -626
+  },
+  {
+    "rank": 154,
+    "email": "hit***@gmail.com",
+    "challengeId": "d3149820-785c-494a-9d80-2314d5d1a28c",
+    "realPnl": -626,
+    "unrealPnl": 0,
+    "rankingPnl": -626
+  },
+  {
+    "rank": 155,
+    "email": "dil***@gmail.com",
+    "challengeId": "37b964f2-5a1a-46a2-a87a-5a78c9c3cbf2",
+    "realPnl": -159,
+    "unrealPnl": -519,
+    "rankingPnl": -678
+  },
+  {
+    "rank": 156,
+    "email": "vaz***@gmail.com",
+    "challengeId": "a8a9c397-5f73-406d-a90c-ec89a8cb11c2",
+    "realPnl": 2831,
+    "unrealPnl": -3548,
+    "rankingPnl": -717
+  },
+  {
+    "rank": 157,
+    "email": "see***@gmail.com",
+    "challengeId": "fbd01b0e-3b46-4180-b355-05c395ad769c",
+    "realPnl": -797,
+    "unrealPnl": 45,
+    "rankingPnl": -752
+  },
+  {
+    "rank": 158,
+    "email": "sla***@yandex.ru",
+    "challengeId": "252520dc-8b62-4119-9592-0201e1bf77e7",
+    "realPnl": -780,
+    "unrealPnl": 0,
+    "rankingPnl": -780
+  },
+  {
+    "rank": 159,
+    "email": "vdr***@mail.ru",
+    "challengeId": "cd2cea16-d96b-4153-87cd-e367f5fa5acb",
+    "realPnl": -797,
+    "unrealPnl": 0,
+    "rankingPnl": -797
+  },
+  {
+    "rank": 160,
+    "email": "kil***@mail.ru",
+    "challengeId": "3db84250-0f12-4cdf-9c34-e0569462ba92",
+    "realPnl": 697,
+    "unrealPnl": -1506,
+    "rankingPnl": -809
+  },
+  {
+    "rank": 161,
+    "email": "jud***@gmail.com",
+    "challengeId": "766bcdc3-9f9d-432d-8af8-8946f61e2dd5",
+    "realPnl": -530,
+    "unrealPnl": -289,
+    "rankingPnl": -819
+  },
+  {
+    "rank": 162,
+    "email": "ale***@yandex.ru",
+    "challengeId": "5dc1d42c-585c-4860-9651-a8e6133cf767",
+    "realPnl": -1815,
+    "unrealPnl": 981,
+    "rankingPnl": -834
+  },
+  {
+    "rank": 163,
+    "email": "saf***@yandex.ru",
+    "challengeId": "bf5aa8e5-f382-4bc1-a6d2-4f56bc6c24e0",
+    "realPnl": -2793,
+    "unrealPnl": 1945,
+    "rankingPnl": -848
+  },
+  {
+    "rank": 164,
+    "email": "ana***@gmail.com",
+    "challengeId": "39424503-f140-4fe6-8176-a93c79d24619",
+    "realPnl": -924,
+    "unrealPnl": 0,
+    "rankingPnl": -924
+  },
+  {
+    "rank": 165,
+    "email": "kse***@yahoo.com",
+    "challengeId": "765ab594-45de-4f58-98f7-b5e6ea9820c9",
+    "realPnl": -950,
+    "unrealPnl": 0,
+    "rankingPnl": -950
+  },
+  {
+    "rank": 166,
+    "email": "arb***@gmail.com",
+    "challengeId": "25bef627-65b5-4aa0-bbf9-a9be5b7536b7",
+    "realPnl": 1959,
+    "unrealPnl": -2941,
+    "rankingPnl": -982
+  },
+  {
+    "rank": 167,
+    "email": "e.a***@gmail.com",
+    "challengeId": "9769d754-52c5-4e6e-8009-fdb52ce17836",
+    "realPnl": -1059,
+    "unrealPnl": 0,
+    "rankingPnl": -1059
+  },
+  {
+    "rank": 168,
+    "email": "vet***@hotmail.com",
+    "challengeId": "e79e7b88-af84-4a69-bba8-24bb5d323a25",
+    "realPnl": -1198,
+    "unrealPnl": 0,
+    "rankingPnl": -1198
+  },
+  {
+    "rank": 169,
+    "email": "ale***@gmail.com",
+    "challengeId": "76f1406c-dcb0-4c4b-8cda-af14797520b6",
+    "realPnl": -1229,
+    "unrealPnl": 0,
+    "rankingPnl": -1229
+  },
+  {
+    "rank": 170,
+    "email": "skh***@gmail.com",
+    "challengeId": "5e8eff14-c212-48c4-8585-8b7c976e8b78",
+    "realPnl": -1259,
+    "unrealPnl": 0,
+    "rankingPnl": -1259
+  },
+  {
+    "rank": 171,
+    "email": "wor***@gmail.com",
+    "challengeId": "293add60-22fb-4529-8b5f-6e75ebccefcf",
+    "realPnl": -13,
+    "unrealPnl": -1263,
+    "rankingPnl": -1276
+  },
+  {
+    "rank": 172,
+    "email": "nik***@yandex.ru",
+    "challengeId": "97d223a0-14b6-4dd9-9a78-c7ccf8b4e542",
+    "realPnl": -1471,
+    "unrealPnl": 0,
+    "rankingPnl": -1471
+  },
+  {
+    "rank": 173,
+    "email": "exp***@ukr.net",
+    "challengeId": "75475036-55b3-4bcd-bd21-996096639a86",
+    "realPnl": -1289,
+    "unrealPnl": -240,
+    "rankingPnl": -1528
+  },
+  {
+    "rank": 174,
+    "email": "mp7***@gmail.com",
+    "challengeId": "01025d30-aa32-4594-997d-2f25969920b8",
+    "realPnl": 1180,
+    "unrealPnl": -2731,
+    "rankingPnl": -1551
+  },
+  {
+    "rank": 175,
+    "email": "kra***@gmail.com",
+    "challengeId": "a1c31f84-e5b6-4d3d-85a0-8a1692c63e61",
+    "realPnl": -1465,
+    "unrealPnl": -99,
+    "rankingPnl": -1565
+  },
+  {
+    "rank": 176,
+    "email": "ale***@gmail.com",
+    "challengeId": "e85a48e1-bbb2-4fc4-a39b-91f8c3225e1b",
+    "realPnl": -861,
+    "unrealPnl": -744,
+    "rankingPnl": -1605
+  },
+  {
+    "rank": 177,
+    "email": "m.e***@yandex.ru",
+    "challengeId": "612aec1a-d037-455e-9291-791894bae48c",
+    "realPnl": -1690,
+    "unrealPnl": 63,
+    "rankingPnl": -1627
+  },
+  {
+    "rank": 178,
+    "email": "and***@gmail.com",
+    "challengeId": "e98468d7-36ff-465e-be74-0da3cb957bd4",
+    "realPnl": 243,
+    "unrealPnl": -1888,
+    "rankingPnl": -1645
+  },
+  {
+    "rank": 179,
+    "email": "cry***@gmail.com",
+    "challengeId": "2a4b3340-e4b1-4941-993d-71be76c15874",
+    "realPnl": -3960,
+    "unrealPnl": 2308,
+    "rankingPnl": -1652
+  },
+  {
+    "rank": 180,
+    "email": "ali***@icloud.com",
+    "challengeId": "3b512cad-871e-4c5c-9d53-c04dc06d1eea",
+    "realPnl": -1371,
+    "unrealPnl": -332,
+    "rankingPnl": -1702
+  },
+  {
+    "rank": 181,
+    "email": "zlo***@gmail.com",
+    "challengeId": "6c72bc6c-b893-48bf-9b04-ef216223c043",
+    "realPnl": -1760,
+    "unrealPnl": 0,
+    "rankingPnl": -1760
+  },
+  {
+    "rank": 182,
+    "email": "rus***@gmail.com",
+    "challengeId": "a6d21669-2fa1-412d-b583-2f1c49463907",
+    "realPnl": -2018,
+    "unrealPnl": 212,
+    "rankingPnl": -1805
+  },
+  {
+    "rank": 183,
+    "email": "inv***@gmail.com",
+    "challengeId": "6cd82e72-906c-4a88-9d61-057defdf22a7",
+    "realPnl": -495,
+    "unrealPnl": -1387,
+    "rankingPnl": -1881
+  },
+  {
+    "rank": 184,
+    "email": "1ns***@inbox.lv",
+    "challengeId": "a3ea650b-89fb-44cc-9bb7-9f27a6ee0fee",
+    "realPnl": -1195,
+    "unrealPnl": -687,
+    "rankingPnl": -1882
+  },
+  {
+    "rank": 185,
+    "email": "a.c***@hashhedge.com",
+    "challengeId": "452bdd14-d5f5-4b51-977a-33bb09a3d1af",
+    "realPnl": -1950,
+    "unrealPnl": 0,
+    "rankingPnl": -1950
+  },
+  {
+    "rank": 186,
+    "email": "fac***@aol.com",
+    "challengeId": "267f8a03-bc7e-4d61-87f8-94ae94f8a22c",
+    "realPnl": -1719,
+    "unrealPnl": -271,
+    "rankingPnl": -1990
+  },
+  {
+    "rank": 187,
+    "email": "fai***@gmail.com",
+    "challengeId": "365cf261-c6e3-4ac8-b732-5eb84f5791af",
+    "realPnl": -330,
+    "unrealPnl": -1692,
+    "rankingPnl": -2023
+  },
+  {
+    "rank": 188,
+    "email": "pro***@gmail.com",
+    "challengeId": "f60a1c20-294e-443a-a3e5-8e28ad0e6f57",
+    "realPnl": -2098,
+    "unrealPnl": 0,
+    "rankingPnl": -2098
+  },
+  {
+    "rank": 189,
+    "email": "mus***@gmail.com",
+    "challengeId": "fa007e08-f20e-4ced-bb39-aee83a503573",
+    "realPnl": -2117,
+    "unrealPnl": 0,
+    "rankingPnl": -2117
+  },
+  {
+    "rank": 190,
+    "email": "lex***@gmail.com",
+    "challengeId": "87f25f8c-1bcb-4dd6-806a-3bf01bfa30e9",
+    "realPnl": -2120,
+    "unrealPnl": 0,
+    "rankingPnl": -2120
+  },
+  {
+    "rank": 191,
+    "email": "vas***@gmail.com",
+    "challengeId": "20ec8669-a296-481e-878b-df5c53e36d2b",
+    "realPnl": -133,
+    "unrealPnl": -1993,
+    "rankingPnl": -2126
+  },
+  {
+    "rank": 192,
+    "email": "dan***@gmail.com",
+    "challengeId": "9d7859a6-b884-4d39-82e4-b8e8609e1a9e",
+    "realPnl": -2399,
+    "unrealPnl": 0,
+    "rankingPnl": -2399
+  },
+  {
+    "rank": 193,
+    "email": "ime***@gmail.com",
+    "challengeId": "61f90970-8a48-41de-a174-05fd6b0f6684",
+    "realPnl": -2406,
+    "unrealPnl": 0,
+    "rankingPnl": -2406
+  },
+  {
+    "rank": 194,
+    "email": "vex***@gmail.com",
+    "challengeId": "344facaf-18d8-4d7e-990d-802b1f03b89c",
+    "realPnl": -59,
+    "unrealPnl": -2422,
+    "rankingPnl": -2482
+  },
+  {
+    "rank": 195,
+    "email": "baz***@yandex.ru",
+    "challengeId": "6687da8c-d980-4483-8b05-926f5c7b39de",
+    "realPnl": -1785,
+    "unrealPnl": -746,
+    "rankingPnl": -2531
+  },
+  {
+    "rank": 196,
+    "email": "jcb***@gmail.com",
+    "challengeId": "f4182e11-69a0-477f-894d-af7c5e7f3d08",
+    "realPnl": -1077,
+    "unrealPnl": -1564,
+    "rankingPnl": -2640
+  },
+  {
+    "rank": 197,
+    "email": "oms***@mail.ru",
+    "challengeId": "a7775d82-d670-490e-957b-3f012f777997",
+    "realPnl": -2807,
+    "unrealPnl": 0,
+    "rankingPnl": -2807
+  },
+  {
+    "rank": 198,
+    "email": "fra***@gmail.com",
+    "challengeId": "993b00dc-a5e6-4870-b327-7e8b1da2b1a7",
+    "realPnl": -2893,
+    "unrealPnl": 0,
+    "rankingPnl": -2893
+  },
+  {
+    "rank": 199,
+    "email": "pow***@yandex.ru",
+    "challengeId": "160e1fa2-c5e9-4625-86b8-6d3490f58293",
+    "realPnl": -499,
+    "unrealPnl": -2404,
+    "rankingPnl": -2903
+  },
+  {
+    "rank": 200,
+    "email": "139***@mail.ru",
+    "challengeId": "aae199ef-08cb-41e6-b6df-7aa6df64fc53",
+    "realPnl": -3001,
+    "unrealPnl": 0,
+    "rankingPnl": -3001
+  },
+  {
+    "rank": 201,
+    "email": "tca***@gmail.com",
+    "challengeId": "156534bc-c91d-4889-baad-36e93ff1b602",
+    "realPnl": -2972,
+    "unrealPnl": -130,
+    "rankingPnl": -3102
+  },
+  {
+    "rank": 202,
+    "email": "sas***@gmail.com",
+    "challengeId": "fedc452b-1098-445d-b746-d441967cf131",
+    "realPnl": -3330,
+    "unrealPnl": 0,
+    "rankingPnl": -3330
+  },
+  {
+    "rank": 203,
+    "email": "ayq***@proton.me",
+    "challengeId": "8f14ede7-2ded-4d5c-b1f2-f2a192c60f9d",
+    "realPnl": -3447,
+    "unrealPnl": 0,
+    "rankingPnl": -3447
+  },
+  {
+    "rank": 204,
+    "email": "nik***@hotmail.com",
+    "challengeId": "f66e7c49-dc38-4480-8f9c-1fb97fa72215",
+    "realPnl": -1388,
+    "unrealPnl": -2095,
+    "rankingPnl": -3482
+  },
+  {
+    "rank": 205,
+    "email": "bba***@gmail.com",
+    "challengeId": "7368159a-ee2d-4d8e-81ff-a459f52290b6",
+    "realPnl": -3521,
+    "unrealPnl": 0,
+    "rankingPnl": -3521
+  },
+  {
+    "rank": 206,
+    "email": "ale***@gmail.com",
+    "challengeId": "b9aaa82b-ec0c-480d-983e-0a027b885fed",
+    "realPnl": -3620,
+    "unrealPnl": 0,
+    "rankingPnl": -3620
+  },
+  {
+    "rank": 207,
+    "email": "azi***@gmail.com",
+    "challengeId": "82113a6d-e872-4e9d-ba10-44acc036f1d0",
+    "realPnl": -4143,
+    "unrealPnl": 507,
+    "rankingPnl": -3636
+  },
+  {
+    "rank": 208,
+    "email": "mak***@gmail.com",
+    "challengeId": "db40da89-ec7b-4ed6-879c-21f943f27d4a",
+    "realPnl": -3652,
+    "unrealPnl": 0,
+    "rankingPnl": -3652
+  },
+  {
+    "rank": 209,
+    "email": "hos***@gmail.com",
+    "challengeId": "d46a1486-168f-40b2-8ed6-f135262a623a",
+    "realPnl": -3734,
+    "unrealPnl": 0,
+    "rankingPnl": -3734
+  },
+  {
+    "rank": 210,
+    "email": "p2p***@gmail.com",
+    "challengeId": "14668542-6316-44fa-9f7f-95ae6d0bded4",
+    "realPnl": -2078,
+    "unrealPnl": -1684,
+    "rankingPnl": -3762
+  },
+  {
+    "rank": 211,
+    "email": "art***@gmail.com",
+    "challengeId": "8ff05d4e-9d67-4663-ab01-85c24d83afd4",
+    "realPnl": -3766,
+    "unrealPnl": 0,
+    "rankingPnl": -3766
+  },
+  {
+    "rank": 212,
+    "email": "gyo***@gmail.com",
+    "challengeId": "b9637134-c27b-4cea-bc6e-13bdb3419373",
+    "realPnl": -3797,
+    "unrealPnl": 0,
+    "rankingPnl": -3797
+  },
+  {
+    "rank": 213,
+    "email": "asu***@gmail.com",
+    "challengeId": "2a8eea4e-5dc6-4806-b065-d716d830597a",
+    "realPnl": -2221,
+    "unrealPnl": -1641,
+    "rankingPnl": -3862
+  },
+  {
+    "rank": 214,
+    "email": "reg***@gmail.com",
+    "challengeId": "73a1f1a1-ea42-4c44-a414-9b7357522772",
+    "realPnl": -3920,
+    "unrealPnl": 0,
+    "rankingPnl": -3920
+  },
+  {
+    "rank": 215,
+    "email": "ayl***@gmail.com",
+    "challengeId": "cb53ef3f-d5b4-4cec-8ea1-494e3476ddea",
+    "realPnl": -3968,
+    "unrealPnl": -41,
+    "rankingPnl": -4009
+  },
+  {
+    "rank": 216,
+    "email": "sas***@gmail.com",
+    "challengeId": "f1527639-8df3-4d2d-bfb2-12dab215b2fc",
+    "realPnl": -2796,
+    "unrealPnl": -1410,
+    "rankingPnl": -4206
+  },
+  {
+    "rank": 217,
+    "email": "ser***@list.ru",
+    "challengeId": "6dbf383d-6d45-4787-b2e4-20907cda3d68",
+    "realPnl": -2245,
+    "unrealPnl": -2088,
+    "rankingPnl": -4333
+  },
+  {
+    "rank": 218,
+    "email": "str***@gmail.com",
+    "challengeId": "b756c49d-847b-4a5e-a59f-c3edbd0d8371",
+    "realPnl": -4357,
+    "unrealPnl": 0,
+    "rankingPnl": -4357
+  },
+  {
+    "rank": 219,
+    "email": "azi***@gmail.com",
+    "challengeId": "34dcc338-cba3-48ab-8955-42bc982efcd1",
+    "realPnl": -4490,
+    "unrealPnl": 79,
+    "rankingPnl": -4411
+  },
+  {
+    "rank": 220,
+    "email": "vla***@gmail.com",
+    "challengeId": "a6e7ee9d-6b6c-454c-bf2c-a31d827dbaf5",
+    "realPnl": -4495,
+    "unrealPnl": 0,
+    "rankingPnl": -4495
+  },
+  {
+    "rank": 221,
+    "email": "sha***@gmail.com",
+    "challengeId": "f5dad6ec-654e-4c5c-abb5-ccc273a8683e",
+    "realPnl": -5722,
+    "unrealPnl": 874,
+    "rankingPnl": -4848
+  },
+  {
+    "rank": 222,
+    "email": "rom***@gmail.com",
+    "challengeId": "6ba67073-a424-4aef-9f40-3ac1a0b5838f",
+    "realPnl": -4884,
+    "unrealPnl": 0,
+    "rankingPnl": -4884
+  },
+  {
+    "rank": 223,
+    "email": "kud***@yandex.ru",
+    "challengeId": "74d8725b-80bc-4c6d-a700-f4c2b3874bb8",
+    "realPnl": -5211,
+    "unrealPnl": 285,
+    "rankingPnl": -4926
+  },
+  {
+    "rank": 224,
+    "email": "nvs***@gmail.com",
+    "challengeId": "6634b16d-e511-46ab-b3b1-6e929acc514a",
+    "realPnl": -4952,
+    "unrealPnl": 0,
+    "rankingPnl": -4952
+  },
+  {
+    "rank": 225,
+    "email": "922***@mail.ru",
+    "challengeId": "4395dd33-f386-4e9e-84c8-e18417087e15",
+    "realPnl": -5214,
+    "unrealPnl": 0,
+    "rankingPnl": -5214
+  },
+  {
+    "rank": 226,
+    "email": "sur***@gmail.com",
+    "challengeId": "21cc1449-10c5-48cf-80ba-a95dba5fd4a4",
+    "realPnl": -5229,
+    "unrealPnl": 0,
+    "rankingPnl": -5229
+  },
+  {
+    "rank": 227,
+    "email": "mer***@gmail.com",
+    "challengeId": "635d1f3c-7690-4b08-a13a-03fcace15e4d",
+    "realPnl": -5258,
+    "unrealPnl": -99,
+    "rankingPnl": -5357
+  },
+  {
+    "rank": 228,
+    "email": "nek***@gmail.com",
+    "challengeId": "5571e106-cf9e-4f23-8edd-cfacf9e90eca",
+    "realPnl": -5445,
+    "unrealPnl": 0,
+    "rankingPnl": -5445
+  },
+  {
+    "rank": 229,
+    "email": "poc***@gmail.com",
+    "challengeId": "585b1cae-7776-47fd-9ddd-259ad2a8f0f3",
+    "realPnl": -2012,
+    "unrealPnl": -3435,
+    "rankingPnl": -5446
+  },
+  {
+    "rank": 230,
+    "email": "aik***@mail.ru",
+    "challengeId": "e93c5537-a565-4c72-9597-f5593cc80ec8",
+    "realPnl": -5532,
+    "unrealPnl": 0,
+    "rankingPnl": -5532
+  },
+  {
+    "rank": 231,
+    "email": "bty***@gmail.com",
+    "challengeId": "b096b416-6edf-4801-9bb4-62d922fd3559",
+    "realPnl": -4793,
+    "unrealPnl": -930,
+    "rankingPnl": -5723
+  },
+  {
+    "rank": 232,
+    "email": "ant***@gmail.com",
+    "challengeId": "ca6a09e4-28a1-43c7-a2d8-0e0c97014768",
+    "realPnl": -2781,
+    "unrealPnl": -2973,
+    "rankingPnl": -5755
+  },
+  {
+    "rank": 233,
+    "email": "vol***@gmail.com",
+    "challengeId": "4a671d97-3023-4f6d-a4d6-9c016bf7c6e4",
+    "realPnl": -5798,
+    "unrealPnl": 0,
+    "rankingPnl": -5798
+  },
+  {
+    "rank": 234,
+    "email": "s-f***@mail.ru",
+    "challengeId": "b3c589ec-1d73-41ab-8d6d-51a658014570",
+    "realPnl": -8076,
+    "unrealPnl": 1015,
+    "rankingPnl": -7061
+  },
+  {
+    "rank": 235,
+    "email": "man***@gmail.com",
+    "challengeId": "672d1233-b36b-4a3f-9f34-b4de62b5099e",
+    "realPnl": -7131,
+    "unrealPnl": 0,
+    "rankingPnl": -7131
+  },
+  {
+    "rank": 236,
+    "email": "kuz***@mail.ru",
+    "challengeId": "6b952a46-d680-4698-bb92-c34d88712ee7",
+    "realPnl": -7184,
+    "unrealPnl": 0,
+    "rankingPnl": -7184
+  },
+  {
+    "rank": 237,
+    "email": "iva***@internet.ru",
+    "challengeId": "26e8a12d-cf1b-4a06-a5e7-25917d8c11b3",
+    "realPnl": -7871,
+    "unrealPnl": 0,
+    "rankingPnl": -7871
+  },
+  {
+    "rank": 238,
+    "email": "lig***@gmail.com",
+    "challengeId": "7a71a10b-8e2d-464d-9332-9ed60d48c57a",
+    "realPnl": -8042,
+    "unrealPnl": 0,
+    "rankingPnl": -8042
+  },
+  {
+    "rank": 239,
+    "email": "d77***@gmail.com",
+    "challengeId": "635a265d-80c6-4c17-9cb5-f96a5271f0d5",
+    "realPnl": -8383,
+    "unrealPnl": 0,
+    "rankingPnl": -8383
+  },
+  {
+    "rank": 240,
+    "email": "01m***@gmail.com",
+    "challengeId": "2586b591-f822-4cab-a8f9-9d152b8aa33b",
+    "realPnl": -9259,
+    "unrealPnl": 0,
+    "rankingPnl": -9259
+  },
+  {
+    "rank": 241,
+    "email": "vin***@gmail.com",
+    "challengeId": "a0bd93ca-d9da-4209-97d8-4a008c95e2e5",
+    "realPnl": -9950,
+    "unrealPnl": 0,
+    "rankingPnl": -9950
+  },
+  {
+    "rank": 242,
+    "email": "yas***@yandex.ru",
+    "challengeId": "0d1880a7-e5e6-4661-b2d0-7bd04d508b80",
+    "realPnl": 11733,
+    "unrealPnl": 0,
+    "rankingPnl": 11733
+  },
+  {
+    "rank": 243,
+    "email": "dam***@mail.ru",
+    "challengeId": "292aa581-66d0-4b5a-9f05-b59588e28cb2",
+    "realPnl": 18088,
+    "unrealPnl": -8692,
+    "rankingPnl": 9396
+  },
+  {
+    "rank": 244,
+    "email": "tim***@gmail.com",
+    "challengeId": "781aa047-b9e2-44f8-8840-078ba621d0ae",
+    "realPnl": 10614,
+    "unrealPnl": -2774,
+    "rankingPnl": 7840
+  },
+  {
+    "rank": 245,
+    "email": "892***@mail.ru",
+    "challengeId": "8532eae5-2644-4142-aef5-4050c4587467",
+    "realPnl": 12698,
+    "unrealPnl": -5045,
+    "rankingPnl": 7653
+  },
+  {
+    "rank": 246,
+    "email": "min***@gmail.com",
+    "challengeId": "4cc73fc6-e023-436e-b3ff-ea17b2f99242",
+    "realPnl": 12247,
+    "unrealPnl": -5304,
+    "rankingPnl": 6943
+  },
+  {
+    "rank": 247,
+    "email": "rom***@inbox.ru",
+    "challengeId": "026806ed-632e-477e-9358-c0abd144c210",
+    "realPnl": 6303,
+    "unrealPnl": 0,
+    "rankingPnl": 6303
+  },
+  {
+    "rank": 248,
+    "email": "and***@yandex.ru",
+    "challengeId": "5f605f5e-cf8e-419f-94f5-a920241b9263",
+    "realPnl": 10744,
+    "unrealPnl": -5012,
+    "rankingPnl": 5732
+  },
+  {
+    "rank": 249,
+    "email": "bla***@gmail.com",
+    "challengeId": "b4629a72-bab6-4576-b586-6fe2111d81a5",
+    "realPnl": 9650,
+    "unrealPnl": -4008,
+    "rankingPnl": 5643
+  },
+  {
+    "rank": 250,
+    "email": "ily***@gmail.com",
+    "challengeId": "0dfc631c-e7b7-4df7-9d36-d7291f40528b",
+    "realPnl": 9674,
+    "unrealPnl": -5226,
+    "rankingPnl": 4448
+  },
+  {
+    "rank": 251,
+    "email": "and***@gmail.com",
+    "challengeId": "c1045cce-6e99-4880-a1c7-b13104241e06",
+    "realPnl": 1941,
+    "unrealPnl": 2207,
+    "rankingPnl": 4147
+  },
+  {
+    "rank": 252,
+    "email": "lub***@gmail.com",
+    "challengeId": "e540df9b-5ad8-47e3-94db-46e15784a385",
+    "realPnl": 4878,
+    "unrealPnl": -793,
+    "rankingPnl": 4085
+  },
+  {
+    "rank": 253,
+    "email": "bal***@gmail.com",
+    "challengeId": "95dd4e12-cabd-4114-a620-fca65c60dd9d",
+    "realPnl": 7344,
+    "unrealPnl": -3350,
+    "rankingPnl": 3994
+  },
+  {
+    "rank": 254,
+    "email": "adv***@gmail.com",
+    "challengeId": "1f809a00-93ce-4176-8bba-43759b4d0691",
+    "realPnl": 6848,
+    "unrealPnl": -2892,
+    "rankingPnl": 3956
+  },
+  {
+    "rank": 255,
+    "email": "v.y***@gmail.com",
+    "challengeId": "14992745-5ae9-4c4a-adb8-11ed75f4779f",
+    "realPnl": 10289,
+    "unrealPnl": -6666,
+    "rankingPnl": 3622
+  },
+  {
+    "rank": 256,
+    "email": "and***@gmail.com",
+    "challengeId": "be6e0025-0418-4bb4-ac7e-15a2c32114ba",
+    "realPnl": 10446,
+    "unrealPnl": -7151,
+    "rankingPnl": 3296
+  },
+  {
+    "rank": 257,
+    "email": "wjo***@gmail.com",
+    "challengeId": "d226b2e3-9509-4745-b5a4-99d96d594fc4",
+    "realPnl": 9061,
+    "unrealPnl": -5849,
+    "rankingPnl": 3212
+  },
+  {
+    "rank": 258,
+    "email": "kam***@list.ru",
+    "challengeId": "1ad2ac35-98c2-421c-bc77-51665b61941d",
+    "realPnl": 5377,
+    "unrealPnl": -2303,
+    "rankingPnl": 3075
+  },
+  {
+    "rank": 259,
+    "email": "pul***@gmail.com",
+    "challengeId": "a67def73-2374-4b85-9a8e-6844a155484e",
+    "realPnl": 4164,
+    "unrealPnl": -1202,
+    "rankingPnl": 2962
+  },
+  {
+    "rank": 260,
+    "email": "kir***@gmail.com",
+    "challengeId": "f3a5525c-78ad-4b49-be51-c0eccb5e53ed",
+    "realPnl": 2805,
+    "unrealPnl": 0,
+    "rankingPnl": 2805
+  },
+  {
+    "rank": 261,
+    "email": "str***@gmail.com",
+    "challengeId": "5ec3d299-432c-480a-887d-97809e9f8b22",
+    "realPnl": 7480,
+    "unrealPnl": -4797,
+    "rankingPnl": 2683
+  },
+  {
+    "rank": 262,
+    "email": "nbe***@gmail.com",
+    "challengeId": "b590ef26-beed-46af-af0f-f8a55200c53a",
+    "realPnl": 7759,
+    "unrealPnl": -5307,
+    "rankingPnl": 2452
+  },
+  {
+    "rank": 263,
+    "email": "ole***@gmail.com",
+    "challengeId": "3da54850-4e51-462b-814b-1874d599914d",
+    "realPnl": 7427,
+    "unrealPnl": -5150,
+    "rankingPnl": 2276
+  },
+  {
+    "rank": 264,
+    "email": "btr***@gmail.com",
+    "challengeId": "a0891b9c-0e4e-4c0c-b2c4-4b77da97398e",
+    "realPnl": 12898,
+    "unrealPnl": -10746,
+    "rankingPnl": 2152
+  },
+  {
+    "rank": 265,
+    "email": "sla***@gmail.com",
+    "challengeId": "25c3cec6-cb77-4442-97a2-5c975f5561fe",
+    "realPnl": 1910,
+    "unrealPnl": 0,
+    "rankingPnl": 1910
+  },
+  {
+    "rank": 266,
+    "email": "mar***@gmail.com",
+    "challengeId": "eb6a8bd3-15f6-4ff0-bca7-498982dabc29",
+    "realPnl": 1789,
+    "unrealPnl": -638,
+    "rankingPnl": 1151
+  },
+  {
+    "rank": 267,
+    "email": "kli***@gmail.com",
+    "challengeId": "5c3f780a-d497-4d80-92ad-8843bfc81f59",
+    "realPnl": 6270,
+    "unrealPnl": -5259,
+    "rankingPnl": 1011
+  },
+  {
+    "rank": 268,
+    "email": "neu***@gmail.com",
+    "challengeId": "32ac2a94-285f-4a11-ba85-f48c630547ef",
+    "realPnl": 759,
+    "unrealPnl": 0,
+    "rankingPnl": 759
+  },
+  {
+    "rank": 269,
+    "email": "fxd***@ya.ru",
+    "challengeId": "96210aa9-142e-4864-8a6f-51ff58598aaf",
+    "realPnl": 6365,
+    "unrealPnl": -5916,
+    "rankingPnl": 449
+  },
+  {
+    "rank": 270,
+    "email": "mr.***@gmail.com",
+    "challengeId": "fd7131b0-91ac-4353-9f16-fd0cfef1a4e2",
+    "realPnl": 5899,
+    "unrealPnl": -5525,
+    "rankingPnl": 375
+  },
+  {
+    "rank": 271,
+    "email": "kob***@gmail.com",
+    "challengeId": "193189bc-8019-4933-9a88-5ec6929fa5dd",
+    "realPnl": 1686,
+    "unrealPnl": -1771,
+    "rankingPnl": -85
+  },
+  {
+    "rank": 272,
+    "email": "ceb***@gmail.com",
+    "challengeId": "61b56cec-8ccf-4f45-a6e2-32d59d39e294",
+    "realPnl": -276,
+    "unrealPnl": 0,
+    "rankingPnl": -276
+  },
+  {
+    "rank": 273,
+    "email": "sni***@gmail.com",
+    "challengeId": "3c647aa3-2259-49cb-8bdb-808a951ffa4b",
+    "realPnl": 4774,
+    "unrealPnl": -5114,
+    "rankingPnl": -340
+  },
+  {
+    "rank": 274,
+    "email": "asm***@gmail.com",
+    "challengeId": "ea0445ca-fe35-4e91-b076-550200fd00d3",
+    "realPnl": -462,
+    "unrealPnl": 0,
+    "rankingPnl": -462
+  },
+  {
+    "rank": 275,
+    "email": "nik***@yandex.ru",
+    "challengeId": "6bab02fa-61df-4305-a78d-172c19840143",
+    "realPnl": 1305,
+    "unrealPnl": -1952,
+    "rankingPnl": -647
+  },
+  {
+    "rank": 276,
+    "email": "kiv***@gmail.com",
+    "challengeId": "8a236680-8074-4826-9437-06819d6c2c4c",
+    "realPnl": 4496,
+    "unrealPnl": -5208,
+    "rankingPnl": -712
+  },
+  {
+    "rank": 277,
+    "email": "doo***@gmail.com",
+    "challengeId": "6f4c3f66-5cdf-4126-afcd-11668b050718",
+    "realPnl": 6815,
+    "unrealPnl": -7782,
+    "rankingPnl": -967
+  },
+  {
+    "rank": 278,
+    "email": "aya***@gmail.com",
+    "challengeId": "0248bc3a-9f6e-4987-96d5-daff6dc807d4",
+    "realPnl": 6476,
+    "unrealPnl": -7458,
+    "rankingPnl": -982
+  },
+  {
+    "rank": 279,
+    "email": "laz***@mail.ru",
+    "challengeId": "93a12f56-1d2b-4c05-a110-cc1975f824a9",
+    "realPnl": 4306,
+    "unrealPnl": -5402,
+    "rankingPnl": -1096
+  },
+  {
+    "rank": 280,
+    "email": "zab***@gmail.com",
+    "challengeId": "a064a1ff-c9f1-45fc-94a4-ae9360b95f76",
+    "realPnl": -972,
+    "unrealPnl": -139,
+    "rankingPnl": -1111
+  },
+  {
+    "rank": 281,
+    "email": "shc***@yandex.ru",
+    "challengeId": "998bdccd-f9d2-489e-bea9-43e316486386",
+    "realPnl": -1302,
+    "unrealPnl": 0,
+    "rankingPnl": -1302
+  },
+  {
+    "rank": 282,
+    "email": "gal***@gmail.com",
+    "challengeId": "7200cb58-f548-435c-9511-2a7614d81e66",
+    "realPnl": 4107,
+    "unrealPnl": -5432,
+    "rankingPnl": -1325
+  },
+  {
+    "rank": 283,
+    "email": "s1h***@rambler.ru",
+    "challengeId": "3d5cb347-c672-491e-9c1d-b42bfabc9013",
+    "realPnl": 3816,
+    "unrealPnl": -5156,
+    "rankingPnl": -1340
+  },
+  {
+    "rank": 284,
+    "email": "taa***@gmail.com",
+    "challengeId": "27f2e8db-e2c6-4c04-815b-a15da53027ce",
+    "realPnl": 4338,
+    "unrealPnl": -5690,
+    "rankingPnl": -1352
+  },
+  {
+    "rank": 285,
+    "email": "mou***@gmail.com",
+    "challengeId": "adb066cb-2a34-441c-bd1f-30b87b63d1ee",
+    "realPnl": -563,
+    "unrealPnl": -850,
+    "rankingPnl": -1413
+  },
+  {
+    "rank": 286,
+    "email": "wev***@gmail.com",
+    "challengeId": "c90da85a-a8da-4e97-80e8-b7761d36d43d",
+    "realPnl": 2392,
+    "unrealPnl": -3902,
+    "rankingPnl": -1511
+  },
+  {
+    "rank": 287,
+    "email": "dvo***@gmail.com",
+    "challengeId": "39ff821a-d0b8-43a7-94aa-486ac59f0b04",
+    "realPnl": 937,
+    "unrealPnl": -2584,
+    "rankingPnl": -1647
+  },
+  {
+    "rank": 288,
+    "email": "pis***@gmail.com",
+    "challengeId": "4897dc16-7d2e-43c8-aa43-8e5232a2bad5",
+    "realPnl": 3120,
+    "unrealPnl": -4945,
+    "rankingPnl": -1824
+  },
+  {
+    "rank": 289,
+    "email": "mma***@gmail.com",
+    "challengeId": "f8ca6164-e400-41d2-aa27-b6c739adb336",
+    "realPnl": -1642,
+    "unrealPnl": -200,
+    "rankingPnl": -1843
+  },
+  {
+    "rank": 290,
+    "email": "m05***@yandex.ru",
+    "challengeId": "541b589c-06bd-4eec-9be7-75d24a92c63e",
+    "realPnl": 3935,
+    "unrealPnl": -5881,
+    "rankingPnl": -1945
+  },
+  {
+    "rank": 291,
+    "email": "she***@ukr.net",
+    "challengeId": "bb1180ef-188a-4fc9-90a1-f33207dc868a",
+    "realPnl": -125,
+    "unrealPnl": -1871,
+    "rankingPnl": -1996
+  },
+  {
+    "rank": 292,
+    "email": "igo***@gmail.com",
+    "challengeId": "2254cdcf-3bd6-4b64-a081-084649de7a70",
+    "realPnl": -1445,
+    "unrealPnl": -639,
+    "rankingPnl": -2084
+  },
+  {
+    "rank": 293,
+    "email": "lew***@list.ru",
+    "challengeId": "69d0a423-a9fd-449d-86df-5db3f37564fa",
+    "realPnl": 3026,
+    "unrealPnl": -5131,
+    "rankingPnl": -2105
+  },
+  {
+    "rank": 294,
+    "email": "1nv***@gmail.com",
+    "challengeId": "76be324f-0fa0-4b80-b25b-15ca696fd8dd",
+    "realPnl": -2339,
+    "unrealPnl": 0,
+    "rankingPnl": -2339
+  },
+  {
+    "rank": 295,
+    "email": "ign***@mail.ru",
+    "challengeId": "cba5484e-42d8-45d4-a2bc-9b47a4bac171",
+    "realPnl": 7341,
+    "unrealPnl": -9880,
+    "rankingPnl": -2539
+  },
+  {
+    "rank": 296,
+    "email": "str***@gmail.com",
+    "challengeId": "4d52e83f-52fe-4af7-b5e0-09983e1d8148",
+    "realPnl": 2346,
+    "unrealPnl": -5040,
+    "rankingPnl": -2694
+  },
+  {
+    "rank": 297,
+    "email": "aks***@mail.ru",
+    "challengeId": "1136bad4-8b2b-446a-8ecc-29b9b8e095f8",
+    "realPnl": -2709,
+    "unrealPnl": 0,
+    "rankingPnl": -2709
+  },
+  {
+    "rank": 298,
+    "email": "to-***@yandex.ru",
+    "challengeId": "33c5d4e8-48f6-4834-84e8-61adc361e2c2",
+    "realPnl": 3058,
+    "unrealPnl": -5802,
+    "rankingPnl": -2743
+  },
+  {
+    "rank": 299,
+    "email": "tbt***@gmail.com",
+    "challengeId": "eab590a4-64fa-409d-b440-b9cec566ab8c",
+    "realPnl": -417,
+    "unrealPnl": -2352,
+    "rankingPnl": -2769
+  },
+  {
+    "rank": 300,
+    "email": "vol***@gmail.com",
+    "challengeId": "8ce6d0a2-357f-4b0c-b190-80242ff7fcfd",
+    "realPnl": 2409,
+    "unrealPnl": -5217,
+    "rankingPnl": -2808
+  },
+  {
+    "rank": 301,
+    "email": "ami***@gmail.com",
+    "challengeId": "da932203-18de-4471-820c-42b6ad803980",
+    "realPnl": 2313,
+    "unrealPnl": -5122,
+    "rankingPnl": -2809
+  },
+  {
+    "rank": 302,
+    "email": "sea***@gmail.com",
+    "challengeId": "ac644fa6-ed21-4f9e-9d0d-88506ff58500",
+    "realPnl": -2124,
+    "unrealPnl": -693,
+    "rankingPnl": -2817
+  },
+  {
+    "rank": 303,
+    "email": "hay***@gmail.com",
+    "challengeId": "7950a7d6-9ec7-428d-9745-3300b8cbc4e2",
+    "realPnl": 5023,
+    "unrealPnl": -7887,
+    "rankingPnl": -2863
+  },
+  {
+    "rank": 304,
+    "email": "smo***@mail.ru",
+    "challengeId": "9a0ab703-6277-4827-baa9-1969d530a919",
+    "realPnl": 2639,
+    "unrealPnl": -5576,
+    "rankingPnl": -2937
+  },
+  {
+    "rank": 305,
+    "email": "bra***@mail.ru",
+    "challengeId": "ea8839f9-b940-41f1-8c33-e46f5c8e9fab",
+    "realPnl": 2321,
+    "unrealPnl": -5404,
+    "rankingPnl": -3084
+  },
+  {
+    "rank": 306,
+    "email": "igr***@gmail.com",
+    "challengeId": "f49eb0c3-7607-4eb1-8174-d864fa6abb9b",
+    "realPnl": 1907,
+    "unrealPnl": -5015,
+    "rankingPnl": -3108
+  },
+  {
+    "rank": 307,
+    "email": "pav***@icloud.com",
+    "challengeId": "4af51e7c-6448-421f-ab65-07c6803369a6",
+    "realPnl": -3113,
+    "unrealPnl": 0,
+    "rankingPnl": -3113
+  },
+  {
+    "rank": 308,
+    "email": "esh***@gmail.com",
+    "challengeId": "1fd251d6-9f76-4b44-8fa1-8070234e3860",
+    "realPnl": -2511,
+    "unrealPnl": -644,
+    "rankingPnl": -3155
+  },
+  {
+    "rank": 309,
+    "email": "kir***@gmail.com",
+    "challengeId": "370751f9-cc97-4f66-a331-4138311f1e57",
+    "realPnl": -3302,
+    "unrealPnl": 0,
+    "rankingPnl": -3302
+  },
+  {
+    "rank": 310,
+    "email": "mr.***@gmail.com",
+    "challengeId": "ce73a573-323d-4638-9d3d-d414d152d2b7",
+    "realPnl": 1604,
+    "unrealPnl": -4914,
+    "rankingPnl": -3310
+  },
+  {
+    "rank": 311,
+    "email": "tol***@gmail.com",
+    "challengeId": "e12f881a-99dd-44ef-880f-6ee1be4109f8",
+    "realPnl": 1733,
+    "unrealPnl": -5129,
+    "rankingPnl": -3396
+  },
+  {
+    "rank": 312,
+    "email": "dzh***@inbox.ru",
+    "challengeId": "b7fb4d0a-d808-4455-8e54-da477c2026ba",
+    "realPnl": -1744,
+    "unrealPnl": -1757,
+    "rankingPnl": -3502
+  },
+  {
+    "rank": 313,
+    "email": "mel***@gmail.com",
+    "challengeId": "1bd75747-6753-4ffa-b000-8eaa47d423be",
+    "realPnl": -2735,
+    "unrealPnl": -874,
+    "rankingPnl": -3609
+  },
+  {
+    "rank": 314,
+    "email": "dkr***@bk.ru",
+    "challengeId": "7e731cfe-66e2-4b12-a908-a6a8e9572679",
+    "realPnl": 1426,
+    "unrealPnl": -5129,
+    "rankingPnl": -3703
+  },
+  {
+    "rank": 315,
+    "email": "str***@gmail.com",
+    "challengeId": "b277bb3e-6c0f-4e4b-8e95-43715ee8f669",
+    "realPnl": -2396,
+    "unrealPnl": -1377,
+    "rankingPnl": -3773
+  },
+  {
+    "rank": 316,
+    "email": "kus***@gmail.com",
+    "challengeId": "a57befa1-a953-46fa-920d-67a09664e0c4",
+    "realPnl": 2212,
+    "unrealPnl": -6121,
+    "rankingPnl": -3909
+  },
+  {
+    "rank": 317,
+    "email": "zem***@gmail.com",
+    "challengeId": "78c9d975-38b6-48d5-a777-c121a5330302",
+    "realPnl": -1747,
+    "unrealPnl": -2192,
+    "rankingPnl": -3940
+  },
+  {
+    "rank": 318,
+    "email": "pol***@gmail.com",
+    "challengeId": "53deb8ba-0a11-4974-98b7-7d1038e8ac9c",
+    "realPnl": -2053,
+    "unrealPnl": -1899,
+    "rankingPnl": -3952
+  },
+  {
+    "rank": 319,
+    "email": "kar***@gmail.com",
+    "challengeId": "4fb487a4-8d67-4847-9efd-c4814de4f0ed",
+    "realPnl": 1622,
+    "unrealPnl": -5612,
+    "rankingPnl": -3990
+  },
+  {
+    "rank": 320,
+    "email": "sta***@list.ru",
+    "challengeId": "b12eddb2-d8e9-48f9-9f05-7c86783e9f00",
+    "realPnl": -824,
+    "unrealPnl": -3286,
+    "rankingPnl": -4110
+  },
+  {
+    "rank": 321,
+    "email": "den***@gmail.com",
+    "challengeId": "8aa93762-b0f1-4787-8284-19057febd120",
+    "realPnl": -1196,
+    "unrealPnl": -2986,
+    "rankingPnl": -4183
+  },
+  {
+    "rank": 322,
+    "email": "hef***@gmail.com",
+    "challengeId": "714a7a6a-8664-4814-bee5-157ad8640ebd",
+    "realPnl": 3917,
+    "unrealPnl": -8105,
+    "rankingPnl": -4188
+  },
+  {
+    "rank": 323,
+    "email": "ipl***@yandex.ru",
+    "challengeId": "de24d6e5-e63e-42f0-8a5f-a5d903fe1ad4",
+    "realPnl": -3053,
+    "unrealPnl": -1150,
+    "rankingPnl": -4203
+  },
+  {
+    "rank": 324,
+    "email": "mak***@gmail.com",
+    "challengeId": "baec299f-7955-47bb-88da-bc7c42784ee7",
+    "realPnl": 960,
+    "unrealPnl": -5184,
+    "rankingPnl": -4224
+  },
+  {
+    "rank": 325,
+    "email": "cyx***@gmail.com",
+    "challengeId": "560547b5-0018-4d09-b0d9-e4baf951e60b",
+    "realPnl": 650,
+    "unrealPnl": -4933,
+    "rankingPnl": -4283
+  },
+  {
+    "rank": 326,
+    "email": "inv***@gmail.com",
+    "challengeId": "d8d5f37e-a900-40e6-a567-8f95b5d71011",
+    "realPnl": 371,
+    "unrealPnl": -4681,
+    "rankingPnl": -4309
+  },
+  {
+    "rank": 327,
+    "email": "apr***@gmail.com",
+    "challengeId": "090c653a-36fb-46e5-b3f1-5b40e8130479",
+    "realPnl": 898,
+    "unrealPnl": -5244,
+    "rankingPnl": -4346
+  },
+  {
+    "rank": 328,
+    "email": "per***@yandex.com",
+    "challengeId": "2b36e3c3-944e-4a36-9f84-68295c546ed3",
+    "realPnl": 1855,
+    "unrealPnl": -6328,
+    "rankingPnl": -4474
+  },
+  {
+    "rank": 329,
+    "email": "vas***@yandex.ru",
+    "challengeId": "4a70da7d-8658-4bf6-bfa8-5eb8ab3abfec",
+    "realPnl": 1554,
+    "unrealPnl": -6079,
+    "rankingPnl": -4524
+  },
+  {
+    "rank": 330,
+    "email": "sam***@gmail.com",
+    "challengeId": "7e4f7c94-886a-4eb7-a0f7-c7cecb330b8a",
+    "realPnl": -4026,
+    "unrealPnl": -582,
+    "rankingPnl": -4608
+  },
+  {
+    "rank": 331,
+    "email": "gol***@yandex.ru",
+    "challengeId": "26edaaf5-4c15-49cf-b79e-6e6ceba5cfa6",
+    "realPnl": 3,
+    "unrealPnl": -4611,
+    "rankingPnl": -4608
+  },
+  {
+    "rank": 332,
+    "email": "ria***@mail.ru",
+    "challengeId": "76f95396-0e94-4d4e-ba03-fcdc61a7fa87",
+    "realPnl": 678,
+    "unrealPnl": -5336,
+    "rankingPnl": -4658
+  },
+  {
+    "rank": 333,
+    "email": "ben***@gmail.com",
+    "challengeId": "d23e7f8f-34a5-44b6-9c9b-a8c4229a7e61",
+    "realPnl": 950,
+    "unrealPnl": -5664,
+    "rankingPnl": -4713
+  },
+  {
+    "rank": 334,
+    "email": "dan***@yandex.ru",
+    "challengeId": "0f55ac2d-bc9b-4450-9005-7675c6ea31f3",
+    "realPnl": 509,
+    "unrealPnl": -5344,
+    "rankingPnl": -4835
+  },
+  {
+    "rank": 335,
+    "email": "cry***@gmail.com",
+    "challengeId": "3e7e0dc1-d0b8-4277-b0bc-6a669c6036a9",
+    "realPnl": 224,
+    "unrealPnl": -5123,
+    "rankingPnl": -4899
+  },
+  {
+    "rank": 336,
+    "email": "bel***@yandex.by",
+    "challengeId": "dfc4b119-faaf-462b-8df5-b519822da132",
+    "realPnl": 578,
+    "unrealPnl": -5494,
+    "rankingPnl": -4916
+  },
+  {
+    "rank": 337,
+    "email": "goo***@gmail.com",
+    "challengeId": "220fcd86-7543-46f9-9a23-9b123cc5eda4",
+    "realPnl": -3408,
+    "unrealPnl": -1539,
+    "rankingPnl": -4947
+  },
+  {
+    "rank": 338,
+    "email": "ole***@gmail.com",
+    "challengeId": "3450bd6f-adb3-456a-ae24-6b97adf0fa9f",
+    "realPnl": 695,
+    "unrealPnl": -5681,
+    "rankingPnl": -4986
+  },
+  {
+    "rank": 339,
+    "email": "mic***@yandex.ru",
+    "challengeId": "12c0c07b-dba4-41a1-afe3-659e0ea13673",
+    "realPnl": -148,
+    "unrealPnl": -4840,
+    "rankingPnl": -4988
+  },
+  {
+    "rank": 340,
+    "email": "sob***@gmail.com",
+    "challengeId": "04c27562-ba4e-44ec-807e-f91ef4cc80db",
+    "realPnl": -150,
+    "unrealPnl": -4855,
+    "rankingPnl": -5005
+  },
+  {
+    "rank": 341,
+    "email": "gri***@gmail.com",
+    "challengeId": "96aa246f-03c0-415e-ade2-604a8c74d467",
+    "realPnl": -5007,
+    "unrealPnl": 0,
+    "rankingPnl": -5007
+  },
+  {
+    "rank": 342,
+    "email": "myf***@gmail.com",
+    "challengeId": "d59bf17c-c079-489d-bcca-e31bbc36d116",
+    "realPnl": -5008,
+    "unrealPnl": 0,
+    "rankingPnl": -5008
+  },
+  {
+    "rank": 343,
+    "email": "ber***@list.ru",
+    "challengeId": "642d9bbb-6837-47f1-82fa-838255983d1b",
+    "realPnl": 1924,
+    "unrealPnl": -6945,
+    "rankingPnl": -5020
+  },
+  {
+    "rank": 344,
+    "email": "sav***@mail.ru",
+    "challengeId": "24374569-119f-41e9-91e3-91140985bf51",
+    "realPnl": -4743,
+    "unrealPnl": -286,
+    "rankingPnl": -5029
+  },
+  {
+    "rank": 345,
+    "email": "cry***@gmail.com",
+    "challengeId": "20733977-176d-430f-8bf3-4ffad238486d",
+    "realPnl": -5033,
+    "unrealPnl": 0,
+    "rankingPnl": -5033
+  },
+  {
+    "rank": 346,
+    "email": "ale***@gmail.com",
+    "challengeId": "3ae88248-6642-402a-89ce-8331662a57d4",
+    "realPnl": -76,
+    "unrealPnl": -4957,
+    "rankingPnl": -5033
+  },
+  {
+    "rank": 347,
+    "email": "zxc***@yandex.ru",
+    "challengeId": "3504934f-315c-4472-b254-be37843ff021",
+    "realPnl": -5068,
+    "unrealPnl": 28,
+    "rankingPnl": -5040
+  },
+  {
+    "rank": 348,
+    "email": "kim***@gmail.com",
+    "challengeId": "4908b2b2-f90e-4a62-89df-62fe994f4e94",
+    "realPnl": -68,
+    "unrealPnl": -4975,
+    "rankingPnl": -5043
+  },
+  {
+    "rank": 349,
+    "email": "nbn***@gmail.com",
+    "challengeId": "4c18dd4b-e37c-4095-a8bd-5cf874545592",
+    "realPnl": -3801,
+    "unrealPnl": -1245,
+    "rankingPnl": -5046
+  },
+  {
+    "rank": 350,
+    "email": "ale***@gmail.com",
+    "challengeId": "ab0ddd7e-cab0-4b96-954d-71cfefea9dcd",
+    "realPnl": -3542,
+    "unrealPnl": -1514,
+    "rankingPnl": -5056
+  },
+  {
+    "rank": 351,
+    "email": "vad***@mail.ru",
+    "challengeId": "fb1c23d2-8a02-42b8-9c1e-f2b95c8ea1cf",
+    "realPnl": -5065,
+    "unrealPnl": 0,
+    "rankingPnl": -5065
+  },
+  {
+    "rank": 352,
+    "email": "sho***@gmail.com",
+    "challengeId": "48bb2c08-883a-4f46-85db-94bb82af4332",
+    "realPnl": 891,
+    "unrealPnl": -5964,
+    "rankingPnl": -5073
+  },
+  {
+    "rank": 353,
+    "email": "nik***@gmail.com",
+    "challengeId": "68940d09-b3b8-434a-807c-9266b9839b65",
+    "realPnl": -5059,
+    "unrealPnl": -14,
+    "rankingPnl": -5073
+  },
+  {
+    "rank": 354,
+    "email": "rad***@gmail.com",
+    "challengeId": "47bbac57-6c29-448c-ade8-f56fb4483705",
+    "realPnl": -356,
+    "unrealPnl": -4722,
+    "rankingPnl": -5077
+  },
+  {
+    "rank": 355,
+    "email": "sob***@gmail.com",
+    "challengeId": "d4baa8ad-fcf9-41fc-b9b0-e841ddcc3e20",
+    "realPnl": -150,
+    "unrealPnl": -4934,
+    "rankingPnl": -5084
+  },
+  {
+    "rank": 356,
+    "email": "and***@gmail.com",
+    "challengeId": "1c823bcc-5aaa-48eb-9030-17394f7b3afc",
+    "realPnl": -90,
+    "unrealPnl": -4997,
+    "rankingPnl": -5087
+  },
+  {
+    "rank": 357,
+    "email": "xas***@gmail.com",
+    "challengeId": "ade0a47d-ff58-409b-9491-fbeaa50b6c8b",
+    "realPnl": -128,
+    "unrealPnl": -4964,
+    "rankingPnl": -5092
+  },
+  {
+    "rank": 358,
+    "email": "rol***@gmail.com",
+    "challengeId": "2ef101ff-b318-4b56-bf0c-70393be57f97",
+    "realPnl": 2372,
+    "unrealPnl": -7466,
+    "rankingPnl": -5094
+  },
+  {
+    "rank": 359,
+    "email": "ant***@gmail.com",
+    "challengeId": "fe74a66c-b728-4922-ab41-3d82480bd36b",
+    "realPnl": -1891,
+    "unrealPnl": -3207,
+    "rankingPnl": -5099
+  },
+  {
+    "rank": 360,
+    "email": "hms***@bk.ru",
+    "challengeId": "4bfc41ee-4346-4d25-8881-e0a0e61b36de",
+    "realPnl": -48,
+    "unrealPnl": -5054,
+    "rankingPnl": -5102
+  },
+  {
+    "rank": 361,
+    "email": "mca***@gmail.com",
+    "challengeId": "5063ec42-90b1-4c72-a653-934f75d2eadd",
+    "realPnl": -3572,
+    "unrealPnl": -1536,
+    "rankingPnl": -5108
+  },
+  {
+    "rank": 362,
+    "email": "ale***@gmail.com",
+    "challengeId": "40dee3c5-014e-411e-8b1e-78403b35d80a",
+    "realPnl": 25,
+    "unrealPnl": -5134,
+    "rankingPnl": -5109
+  },
+  {
+    "rank": 363,
+    "email": "loz***@gmail.com",
+    "challengeId": "409edb92-7b17-4b8d-855a-ab57506e3a5b",
+    "realPnl": -1977,
+    "unrealPnl": -3132,
+    "rankingPnl": -5110
+  },
+  {
+    "rank": 364,
+    "email": "vdy***@gmail.com",
+    "challengeId": "25c5296d-214b-492f-a3af-ce54c8076365",
+    "realPnl": -43,
+    "unrealPnl": -5073,
+    "rankingPnl": -5116
+  },
+  {
+    "rank": 365,
+    "email": "bud***@gmail.com",
+    "challengeId": "20b211bf-dbd5-4e10-875a-5660583c0afa",
+    "realPnl": -150,
+    "unrealPnl": -4978,
+    "rankingPnl": -5128
+  },
+  {
+    "rank": 366,
+    "email": "rec***@gmail.com",
+    "challengeId": "94087f81-0921-41bb-8694-f3a82db63210",
+    "realPnl": -5134,
+    "unrealPnl": 0,
+    "rankingPnl": -5134
+  },
+  {
+    "rank": 367,
+    "email": "art***@gmail.com",
+    "challengeId": "1572c2f8-2de4-4c46-ab09-b398c6554002",
+    "realPnl": -4493,
+    "unrealPnl": -647,
+    "rankingPnl": -5139
+  },
+  {
+    "rank": 368,
+    "email": "nat***@gmail.com",
+    "challengeId": "acaef5a6-fae5-4970-bc7a-5977926ac307",
+    "realPnl": -5142,
+    "unrealPnl": 0,
+    "rankingPnl": -5142
+  },
+  {
+    "rank": 369,
+    "email": "sob***@gmail.com",
+    "challengeId": "7f72a161-284d-4539-927f-e9c64aeec687",
+    "realPnl": 2884,
+    "unrealPnl": -8029,
+    "rankingPnl": -5145
+  },
+  {
+    "rank": 370,
+    "email": "san***@gmail.com",
+    "challengeId": "9cccdabb-2c8f-4cc5-aab7-6d32ab59e0ab",
+    "realPnl": -4056,
+    "unrealPnl": -1090,
+    "rankingPnl": -5146
+  },
+  {
+    "rank": 371,
+    "email": "lfu***@ukr.net",
+    "challengeId": "5ea86ed0-e5ad-46ad-8f41-82900aa4adf5",
+    "realPnl": -5155,
+    "unrealPnl": 0,
+    "rankingPnl": -5155
+  },
+  {
+    "rank": 372,
+    "email": "sob***@gmail.com",
+    "challengeId": "c032d96c-7176-445a-aba2-c1f2d303f61b",
+    "realPnl": 4797,
+    "unrealPnl": -9967,
+    "rankingPnl": -5170
+  },
+  {
+    "rank": 373,
+    "email": "asy***@rambler.ru",
+    "challengeId": "bbc0efd5-6db4-448b-bfe3-609d589e34f8",
+    "realPnl": -40,
+    "unrealPnl": -5138,
+    "rankingPnl": -5178
+  },
+  {
+    "rank": 374,
+    "email": "osy***@inbox.lv",
+    "challengeId": "b91cee6c-a6dc-4021-a29b-75c49f18a79e",
+    "realPnl": -87,
+    "unrealPnl": -5111,
+    "rankingPnl": -5198
+  },
+  {
+    "rank": 375,
+    "email": "vla***@proton.me",
+    "challengeId": "4a4fd25d-eb11-4bce-86a7-bc3b81ad2037",
+    "realPnl": 464,
+    "unrealPnl": -5663,
+    "rankingPnl": -5199
+  },
+  {
+    "rank": 376,
+    "email": "the***@proton.me",
+    "challengeId": "d7ef9843-a5d3-44b0-b3fe-e9ffeb784d41",
+    "realPnl": -107,
+    "unrealPnl": -5096,
+    "rankingPnl": -5203
+  },
+  {
+    "rank": 377,
+    "email": "iva***@gmail.com",
+    "challengeId": "be8a2fe0-7b8b-41f1-bdda-3daa4099557d",
+    "realPnl": -119,
+    "unrealPnl": -5095,
+    "rankingPnl": -5214
+  },
+  {
+    "rank": 378,
+    "email": "gal***@ro.ru",
+    "challengeId": "e3fb4d8e-11c7-4e4d-aaec-161e2d074c72",
+    "realPnl": -57,
+    "unrealPnl": -5158,
+    "rankingPnl": -5215
+  },
+  {
+    "rank": 379,
+    "email": "mga***@gmail.com",
+    "challengeId": "70ab4959-52a0-4df1-8e07-23e438b1288e",
+    "realPnl": -1141,
+    "unrealPnl": -4081,
+    "rankingPnl": -5223
+  },
+  {
+    "rank": 380,
+    "email": "yur***@list.ru",
+    "challengeId": "dcd7ea8f-10e4-43a7-8965-d207fbabaefa",
+    "realPnl": -5224,
+    "unrealPnl": 0,
+    "rankingPnl": -5224
+  },
+  {
+    "rank": 381,
+    "email": "art***@inbox.ru",
+    "challengeId": "8d4d82a3-11c8-4d8e-9a8b-5e85af015d38",
+    "realPnl": -1070,
+    "unrealPnl": -4156,
+    "rankingPnl": -5226
+  },
+  {
+    "rank": 382,
+    "email": "and***@gmail.com",
+    "challengeId": "fdcab3c3-690e-4072-90b8-e1874d9bb964",
+    "realPnl": -5226,
+    "unrealPnl": 0,
+    "rankingPnl": -5226
+  },
+  {
+    "rank": 383,
+    "email": "bik***@mail.ru",
+    "challengeId": "1c6b2c1c-1ca4-4200-8a9c-abb9ebce6dde",
+    "realPnl": -5068,
+    "unrealPnl": -159,
+    "rankingPnl": -5227
+  },
+  {
+    "rank": 384,
+    "email": "rum***@yandex.ru",
+    "challengeId": "91ba3db5-c263-465a-8182-4c04d2c24668",
+    "realPnl": -126,
+    "unrealPnl": -5102,
+    "rankingPnl": -5227
+  },
+  {
+    "rank": 385,
+    "email": "sob***@gmail.com",
+    "challengeId": "3b8fe4cd-061d-44bc-a61c-5b6c60b385a9",
+    "realPnl": -150,
+    "unrealPnl": -5078,
+    "rankingPnl": -5228
+  },
+  {
+    "rank": 386,
+    "email": "g68***@gmail.com",
+    "challengeId": "5f0b9ee2-342b-4109-9c33-b77cbd5d222b",
+    "realPnl": -27,
+    "unrealPnl": -5209,
+    "rankingPnl": -5235
+  },
+  {
+    "rank": 387,
+    "email": "gar***@mail.ru",
+    "challengeId": "20167d29-f066-4509-a470-1237b6c7b280",
+    "realPnl": -2768,
+    "unrealPnl": -2469,
+    "rankingPnl": -5237
+  },
+  {
+    "rank": 388,
+    "email": "ira***@mail.ru",
+    "challengeId": "f4fa0e50-2910-48f1-ab5d-58b07a404720",
+    "realPnl": -2931,
+    "unrealPnl": -2314,
+    "rankingPnl": -5246
+  },
+  {
+    "rank": 389,
+    "email": "dot***@gmail.com",
+    "challengeId": "4bcd9609-d2d1-4e58-8478-ef79f1052cc5",
+    "realPnl": -61,
+    "unrealPnl": -5187,
+    "rankingPnl": -5247
+  },
+  {
+    "rank": 390,
+    "email": "yan***@gmail.com",
+    "challengeId": "ca3abe2f-7113-4cd0-acc9-b8b77645e0f3",
+    "realPnl": -5561,
+    "unrealPnl": 305,
+    "rankingPnl": -5256
+  },
+  {
+    "rank": 391,
+    "email": "roc***@gmail.com",
+    "challengeId": "e0b2ddff-29f8-4e41-a159-0a27c5c5531c",
+    "realPnl": -37,
+    "unrealPnl": -5225,
+    "rankingPnl": -5261
+  },
+  {
+    "rank": 392,
+    "email": "dam***@gmail.com",
+    "challengeId": "fb258746-8ec2-487f-a87b-61639f84a05b",
+    "realPnl": 101,
+    "unrealPnl": -5372,
+    "rankingPnl": -5272
+  },
+  {
+    "rank": 393,
+    "email": "sed***@yandex.ru",
+    "challengeId": "7aa9f27c-29b9-4619-ac54-33677e6eac6e",
+    "realPnl": -5290,
+    "unrealPnl": 0,
+    "rankingPnl": -5290
+  },
+  {
+    "rank": 394,
+    "email": "gar***@bk.ru",
+    "challengeId": "5f814017-bc27-42c8-b92c-99c45d8b2394",
+    "realPnl": -5293,
+    "unrealPnl": 0,
+    "rankingPnl": -5293
+  },
+  {
+    "rank": 395,
+    "email": "via***@gmail.com",
+    "challengeId": "3f0ede4e-02f5-4894-90b6-fd8c138d730a",
+    "realPnl": 273,
+    "unrealPnl": -5568,
+    "rankingPnl": -5296
+  },
+  {
+    "rank": 396,
+    "email": "inf***@gmail.com",
+    "challengeId": "aa81a6c8-210e-49dc-b13b-93c7b683cd2b",
+    "realPnl": -97,
+    "unrealPnl": -5208,
+    "rankingPnl": -5306
+  },
+  {
+    "rank": 397,
+    "email": "kov***@rambler.ru",
+    "challengeId": "0bc5af89-123a-4d3e-85e9-290a22d997ab",
+    "realPnl": -86,
+    "unrealPnl": -5223,
+    "rankingPnl": -5310
+  },
+  {
+    "rank": 398,
+    "email": "urs***@gmail.com",
+    "challengeId": "02c0739c-5c17-4fbd-9c8a-f59973a72503",
+    "realPnl": -141,
+    "unrealPnl": -5172,
+    "rankingPnl": -5314
+  },
+  {
+    "rank": 399,
+    "email": "sco***@proton.me",
+    "challengeId": "b619ab8e-ce92-4dc7-8dee-e83181690236",
+    "realPnl": -129,
+    "unrealPnl": -5186,
+    "rankingPnl": -5314
+  },
+  {
+    "rank": 400,
+    "email": "sob***@gmail.com",
+    "challengeId": "3853e3dd-fd1a-4209-8f89-d6e797d4f25e",
+    "realPnl": -150,
+    "unrealPnl": -5166,
+    "rankingPnl": -5315
+  },
+  {
+    "rank": 401,
+    "email": "ako***@gmail.com",
+    "challengeId": "4f74c154-c840-40fd-9926-e240058f2b4b",
+    "realPnl": -115,
+    "unrealPnl": -5204,
+    "rankingPnl": -5319
+  },
+  {
+    "rank": 402,
+    "email": "ned***@gmail.com",
+    "challengeId": "dcf36b32-88d7-40d8-9611-3b439313d5e7",
+    "realPnl": -74,
+    "unrealPnl": -5246,
+    "rankingPnl": -5320
+  },
+  {
+    "rank": 403,
+    "email": "lev***@gmail.com",
+    "challengeId": "19b531d3-2ecd-4ca8-9bf4-bfd5cd482f79",
+    "realPnl": -5555,
+    "unrealPnl": 234,
+    "rankingPnl": -5321
+  },
+  {
+    "rank": 404,
+    "email": "sob***@gmail.com",
+    "challengeId": "990538e7-1b32-432f-b2d5-46758bcd189d",
+    "realPnl": 4536,
+    "unrealPnl": -9861,
+    "rankingPnl": -5325
+  },
+  {
+    "rank": 405,
+    "email": "pru***@gmail.com",
+    "challengeId": "7ee653be-5638-4aaa-bc4e-d9a6758a9d7a",
+    "realPnl": -5329,
+    "unrealPnl": 0,
+    "rankingPnl": -5329
+  },
+  {
+    "rank": 406,
+    "email": "d.o***@mail.ru",
+    "challengeId": "7fb0f594-941e-40b4-ac3b-2c27a3f89355",
+    "realPnl": -4040,
+    "unrealPnl": -1297,
+    "rankingPnl": -5337
+  },
+  {
+    "rank": 407,
+    "email": "peh***@gmail.com",
+    "challengeId": "c900fa91-3b3e-493b-ae13-ba5345e1e650",
+    "realPnl": -5339,
+    "unrealPnl": 0,
+    "rankingPnl": -5339
+  },
+  {
+    "rank": 408,
+    "email": "rad***@mail.ru",
+    "challengeId": "ab99ab46-f9a9-4ab0-9429-5efe618ca576",
+    "realPnl": -63,
+    "unrealPnl": -5277,
+    "rankingPnl": -5340
+  },
+  {
+    "rank": 409,
+    "email": "gvo***@gmail.com",
+    "challengeId": "ce980f8f-28d2-4710-bab7-4a259e7e8f87",
+    "realPnl": -3676,
+    "unrealPnl": -1675,
+    "rankingPnl": -5350
+  },
+  {
+    "rank": 410,
+    "email": "max***@mail.ee",
+    "challengeId": "0b626c88-ad8f-4cd2-aa00-69354f4b48ad",
+    "realPnl": -1429,
+    "unrealPnl": -3929,
+    "rankingPnl": -5358
+  },
+  {
+    "rank": 411,
+    "email": "par***@gmail.com",
+    "challengeId": "64f9c8a1-f088-4e75-a088-7d2c688bd5c6",
+    "realPnl": -5176,
+    "unrealPnl": -182,
+    "rankingPnl": -5358
+  },
+  {
+    "rank": 412,
+    "email": "ant***@yahoo.com",
+    "challengeId": "156e0501-35bb-4cc0-b618-e6eab5d9f1ec",
+    "realPnl": -4591,
+    "unrealPnl": -775,
+    "rankingPnl": -5367
+  },
+  {
+    "rank": 413,
+    "email": "bal***@mail.ru",
+    "challengeId": "30f33cd9-f191-4fcb-8022-378f8a26036e",
+    "realPnl": 137,
+    "unrealPnl": -5507,
+    "rankingPnl": -5370
+  },
+  {
+    "rank": 414,
+    "email": "ak.***@gmail.com",
+    "challengeId": "b92b557a-61da-47cf-8293-decc5727f7dd",
+    "realPnl": -5395,
+    "unrealPnl": 14,
+    "rankingPnl": -5381
+  },
+  {
+    "rank": 415,
+    "email": "kos***@yandex.ru",
+    "challengeId": "4e348688-1970-47c1-8741-a5caf3b95f17",
+    "realPnl": -2542,
+    "unrealPnl": -2854,
+    "rankingPnl": -5396
+  },
+  {
+    "rank": 416,
+    "email": "kol***@gmail.com",
+    "challengeId": "f67c0579-f340-4e58-b328-b595d27ca05c",
+    "realPnl": -145,
+    "unrealPnl": -5252,
+    "rankingPnl": -5397
+  },
+  {
+    "rank": 417,
+    "email": "dan***@gmail.com",
+    "challengeId": "ae82ac55-61b2-4573-9b8f-2d15599076d7",
+    "realPnl": -150,
+    "unrealPnl": -5259,
+    "rankingPnl": -5409
+  },
+  {
+    "rank": 418,
+    "email": "b.d***@gmail.com",
+    "challengeId": "e47d53d1-d21c-4dd1-bb39-c16f0feb1482",
+    "realPnl": -563,
+    "unrealPnl": -4854,
+    "rankingPnl": -5417
+  },
+  {
+    "rank": 419,
+    "email": "123***@gmail.com",
+    "challengeId": "9f63a471-8755-4127-9479-00f5413b7841",
+    "realPnl": 6,
+    "unrealPnl": -5423,
+    "rankingPnl": -5417
+  },
+  {
+    "rank": 420,
+    "email": "kir***@mail.ru",
+    "challengeId": "8f40c992-cf16-4bdd-a739-46de38b965ed",
+    "realPnl": -138,
+    "unrealPnl": -5280,
+    "rankingPnl": -5418
+  },
+  {
+    "rank": 421,
+    "email": "mit***@yandex.ru",
+    "challengeId": "3154857c-0548-4dff-94d4-e2414c9d270c",
+    "realPnl": -5038,
+    "unrealPnl": -399,
+    "rankingPnl": -5437
+  },
+  {
+    "rank": 422,
+    "email": "rto***@gmail.com",
+    "challengeId": "fbbeb62c-6922-4316-b019-87e7ef36aecf",
+    "realPnl": -3620,
+    "unrealPnl": -1838,
+    "rankingPnl": -5458
+  },
+  {
+    "rank": 423,
+    "email": "par***@gmail.com",
+    "challengeId": "e50c2e23-f664-474f-ac7a-a1a5bc982c0d",
+    "realPnl": -66,
+    "unrealPnl": -5396,
+    "rankingPnl": -5462
+  },
+  {
+    "rank": 424,
+    "email": "pap***@gmail.com",
+    "challengeId": "5099ee84-83f1-45e5-bfb0-fab7d57467b4",
+    "realPnl": -519,
+    "unrealPnl": -4980,
+    "rankingPnl": -5498
+  },
+  {
+    "rank": 425,
+    "email": "ryb***@gmail.com",
+    "challengeId": "0f4b1b00-96fb-4937-a52d-95a71da7f0b0",
+    "realPnl": -2869,
+    "unrealPnl": -2688,
+    "rankingPnl": -5557
+  },
+  {
+    "rank": 426,
+    "email": "sas***@yandex.ru",
+    "challengeId": "1cc62e88-ca59-4dd7-aa00-2b3cba9baa1b",
+    "realPnl": 357,
+    "unrealPnl": -5914,
+    "rankingPnl": -5557
+  },
+  {
+    "rank": 427,
+    "email": "kos***@gmail.com",
+    "challengeId": "a0d302ec-c640-422f-839c-e77ef8a43453",
+    "realPnl": -808,
+    "unrealPnl": -4757,
+    "rankingPnl": -5565
+  },
+  {
+    "rank": 428,
+    "email": "rod***@gmail.com",
+    "challengeId": "46619c42-0bb7-4e7f-ac02-b756fa1c729b",
+    "realPnl": -5569,
+    "unrealPnl": 0,
+    "rankingPnl": -5569
+  },
+  {
+    "rank": 429,
+    "email": "max***@gmail.com",
+    "challengeId": "c904d0d7-e359-41e0-82b2-7280b15cdd86",
+    "realPnl": -5334,
+    "unrealPnl": -240,
+    "rankingPnl": -5574
+  },
+  {
+    "rank": 430,
+    "email": "sob***@gmail.com",
+    "challengeId": "7e63f6b4-a158-4659-b04d-b689cc53d591",
+    "realPnl": 5076,
+    "unrealPnl": -10677,
+    "rankingPnl": -5601
+  },
+  {
+    "rank": 431,
+    "email": "sob***@gmail.com",
+    "challengeId": "1dd01184-4351-4570-bf0f-b5eca03d0b0a",
+    "realPnl": 4626,
+    "unrealPnl": -10234,
+    "rankingPnl": -5608
+  },
+  {
+    "rank": 432,
+    "email": "ang***@gmail.com",
+    "challengeId": "c75d6044-216d-47ce-805e-fd0e1ce4e890",
+    "realPnl": -150,
+    "unrealPnl": -5498,
+    "rankingPnl": -5648
+  },
+  {
+    "rank": 433,
+    "email": "xph***@gmail.com",
+    "challengeId": "33ace01c-350e-4de3-b891-97ba918f7467",
+    "realPnl": -139,
+    "unrealPnl": -5514,
+    "rankingPnl": -5653
+  },
+  {
+    "rank": 434,
+    "email": "mou***@gmail.com",
+    "challengeId": "e30fa1e4-48d8-4e21-add0-45b4cfaef00e",
+    "realPnl": -149,
+    "unrealPnl": -5506,
+    "rankingPnl": -5655
+  },
+  {
+    "rank": 435,
+    "email": "891***@yandex.ru",
+    "challengeId": "e6857c89-535d-43f0-a1a4-276d9fb0185c",
+    "realPnl": -4525,
+    "unrealPnl": -1151,
+    "rankingPnl": -5675
+  },
+  {
+    "rank": 436,
+    "email": "bre***@gmail.com",
+    "challengeId": "366e838b-4631-4a00-ad68-8723b4a7a4bc",
+    "realPnl": -150,
+    "unrealPnl": -5526,
+    "rankingPnl": -5676
+  },
+  {
+    "rank": 437,
+    "email": "bod***@gmail.com",
+    "challengeId": "9c93fc8b-7316-4f70-afa2-adfa7735c1da",
+    "realPnl": -5609,
+    "unrealPnl": -86,
+    "rankingPnl": -5695
+  },
+  {
+    "rank": 438,
+    "email": "ben***@gmail.com",
+    "challengeId": "966903fc-69f7-4db8-aa7b-ebc6cddd7da1",
+    "realPnl": -5695,
+    "unrealPnl": 0,
+    "rankingPnl": -5695
+  },
+  {
+    "rank": 439,
+    "email": "kuz***@gmail.com",
+    "challengeId": "0cda60bb-8f4e-486e-b9ce-da885cd5fafb",
+    "realPnl": -5712,
+    "unrealPnl": 0,
+    "rankingPnl": -5712
+  },
+  {
+    "rank": 440,
+    "email": "iva***@gmail.com",
+    "challengeId": "330b8195-c04c-472e-b5c9-52ab7d95110e",
+    "realPnl": -101,
+    "unrealPnl": -5617,
+    "rankingPnl": -5718
+  },
+  {
+    "rank": 441,
+    "email": "rav***@gmail.com",
+    "challengeId": "70fba64f-5521-4832-bea0-9ee46ed63147",
+    "realPnl": -5957,
+    "unrealPnl": 225,
+    "rankingPnl": -5731
+  },
+  {
+    "rank": 442,
+    "email": "dan***@gmail.com",
+    "challengeId": "29b9a74b-4c91-489a-9ec1-241f193db3b6",
+    "realPnl": -44,
+    "unrealPnl": -5688,
+    "rankingPnl": -5733
+  },
+  {
+    "rank": 443,
+    "email": "kar***@yandex.ru",
+    "challengeId": "3cf63fcf-cab4-4c69-a4b8-08df90548ada",
+    "realPnl": -4084,
+    "unrealPnl": -1651,
+    "rankingPnl": -5735
+  },
+  {
+    "rank": 444,
+    "email": "max***@gmail.com",
+    "challengeId": "a17bdf89-ea15-4aa5-b1d6-9adda7dad969",
+    "realPnl": -56,
+    "unrealPnl": -5688,
+    "rankingPnl": -5744
+  },
+  {
+    "rank": 445,
+    "email": "lio***@yandex.ru",
+    "challengeId": "0e2db2c2-0b2d-4efe-acab-9690046cd6de",
+    "realPnl": -3801,
+    "unrealPnl": -2051,
+    "rankingPnl": -5852
+  },
+  {
+    "rank": 446,
+    "email": "rom***@gmail.com",
+    "challengeId": "0730bd3a-706b-4683-9f9f-35bac2c2bd1d",
+    "realPnl": -1052,
+    "unrealPnl": -4816,
+    "rankingPnl": -5868
+  },
+  {
+    "rank": 447,
+    "email": "max***@yandex.by",
+    "challengeId": "e7b1c0fa-a68b-4dff-b1a5-ab97a5dde27b",
+    "realPnl": 580,
+    "unrealPnl": -6450,
+    "rankingPnl": -5870
+  },
+  {
+    "rank": 448,
+    "email": "sha***@gmail.com",
+    "challengeId": "5227b24a-4bd8-4369-91dd-49091526f32e",
+    "realPnl": -3829,
+    "unrealPnl": -2043,
+    "rankingPnl": -5872
+  },
+  {
+    "rank": 449,
+    "email": "bos***@mail.ru",
+    "challengeId": "92df4dd5-64ac-4ea9-ab6f-f0eb357fed58",
+    "realPnl": 224,
+    "unrealPnl": -6102,
+    "rankingPnl": -5878
+  },
+  {
+    "rank": 450,
+    "email": "ole***@yandex.ru",
+    "challengeId": "3a04b4f3-7330-4551-b063-615cc334d65f",
+    "realPnl": -354,
+    "unrealPnl": -5529,
+    "rankingPnl": -5883
+  },
+  {
+    "rank": 451,
+    "email": "man***@gmail.com",
+    "challengeId": "abb904d0-19b7-4a13-a962-1c4aa8a78565",
+    "realPnl": -5901,
+    "unrealPnl": 0,
+    "rankingPnl": -5901
+  },
+  {
+    "rank": 452,
+    "email": "gam***@gmail.com",
+    "challengeId": "94e0dc1d-b404-435f-8548-2ff81aa0da84",
+    "realPnl": -6602,
+    "unrealPnl": 678,
+    "rankingPnl": -5924
+  },
+  {
+    "rank": 453,
+    "email": "p_a***@mail.ru",
+    "challengeId": "9195f15a-0cf3-430f-baab-e4a0b37517a0",
+    "realPnl": -75,
+    "unrealPnl": -5856,
+    "rankingPnl": -5931
+  },
+  {
+    "rank": 454,
+    "email": "ale***@mail.ru",
+    "challengeId": "9e40d88e-ce85-4b1e-a1ea-9fc65ba7d5f5",
+    "realPnl": -117,
+    "unrealPnl": -5815,
+    "rankingPnl": -5932
+  },
+  {
+    "rank": 455,
+    "email": "evg***@gmail.com",
+    "challengeId": "1e77a1de-70b0-4ee3-ab83-349cfd68ab93",
+    "realPnl": 171,
+    "unrealPnl": -6110,
+    "rankingPnl": -5939
+  },
+  {
+    "rank": 456,
+    "email": "iva***@gmail.com",
+    "challengeId": "3f1a0345-9a8c-4de8-9cb0-d9ae2e3d4f60",
+    "realPnl": -147,
+    "unrealPnl": -5802,
+    "rankingPnl": -5949
+  },
+  {
+    "rank": 457,
+    "email": "sob***@gmail.com",
+    "challengeId": "230e9cb6-48ad-476a-99e7-2656477a4f91",
+    "realPnl": 5801,
+    "unrealPnl": -11756,
+    "rankingPnl": -5955
+  },
+  {
+    "rank": 458,
+    "email": "hru***@gmail.com",
+    "challengeId": "a58e19b7-5033-4703-b945-8038410b649a",
+    "realPnl": -5062,
+    "unrealPnl": -910,
+    "rankingPnl": -5972
+  },
+  {
+    "rank": 459,
+    "email": "kat***@mail.ru",
+    "challengeId": "8a12a2ed-a95d-4c1c-b5c2-dfafd8768506",
+    "realPnl": -4554,
+    "unrealPnl": -1419,
+    "rankingPnl": -5973
+  },
+  {
+    "rank": 460,
+    "email": "ang***@gmail.com",
+    "challengeId": "e1591987-4f79-431d-a6f8-86c00bff377a",
+    "realPnl": 141,
+    "unrealPnl": -6115,
+    "rankingPnl": -5974
+  },
+  {
+    "rank": 461,
+    "email": "nig***@mail.ru",
+    "challengeId": "30dd9c46-a436-4dd7-8499-f6bdded876eb",
+    "realPnl": -2308,
+    "unrealPnl": -3671,
+    "rankingPnl": -5979
+  },
+  {
+    "rank": 462,
+    "email": "vla***@gmail.com",
+    "challengeId": "6066a04f-3eb8-47f3-825f-36f1d0a9159d",
+    "realPnl": -925,
+    "unrealPnl": -5073,
+    "rankingPnl": -5998
+  },
+  {
+    "rank": 463,
+    "email": "san***@gmail.com",
+    "challengeId": "04351c47-c315-4eb8-b88c-7fb9fd6e6867",
+    "realPnl": 3393,
+    "unrealPnl": -9434,
+    "rankingPnl": -6040
+  },
+  {
+    "rank": 464,
+    "email": "byr***@gmail.com",
+    "challengeId": "1e11439a-c649-4674-b743-b68a5588ccab",
+    "realPnl": -1738,
+    "unrealPnl": -4311,
+    "rankingPnl": -6049
+  },
+  {
+    "rank": 465,
+    "email": "max***@gmail.com",
+    "challengeId": "d61808bb-6499-425b-9275-5f83db8802a4",
+    "realPnl": -75,
+    "unrealPnl": -5974,
+    "rankingPnl": -6049
+  },
+  {
+    "rank": 466,
+    "email": "dan***@gmail.com",
+    "challengeId": "6f4b2f06-df38-4c68-b00c-f79764752d3a",
+    "realPnl": -574,
+    "unrealPnl": -5497,
+    "rankingPnl": -6072
+  },
+  {
+    "rank": 467,
+    "email": "skr***@gmail.com",
+    "challengeId": "cb1f03d4-519d-4efa-8a1e-457502d25bf0",
+    "realPnl": -3946,
+    "unrealPnl": -2135,
+    "rankingPnl": -6081
+  },
+  {
+    "rank": 468,
+    "email": "mku***@gmail.com",
+    "challengeId": "18a5028c-99ea-4ab9-8b36-5abc6408ae15",
+    "realPnl": -732,
+    "unrealPnl": -5349,
+    "rankingPnl": -6082
+  },
+  {
+    "rank": 469,
+    "email": "and***@gmail.com",
+    "challengeId": "c85f8956-d2b1-4ef9-b708-334f5e4a587e",
+    "realPnl": -37,
+    "unrealPnl": -6089,
+    "rankingPnl": -6126
+  },
+  {
+    "rank": 470,
+    "email": "cah***@mail.ru",
+    "challengeId": "2bf9bccb-bc4e-48c3-8ca3-7d27f626914a",
+    "realPnl": -2440,
+    "unrealPnl": -3692,
+    "rankingPnl": -6131
+  },
+  {
+    "rank": 471,
+    "email": "mur***@yandex.ru",
+    "challengeId": "58414519-4002-4472-9b4d-75c2366e1f43",
+    "realPnl": -6137,
+    "unrealPnl": 0,
+    "rankingPnl": -6137
+  },
+  {
+    "rank": 472,
+    "email": "tra***@outlook.com",
+    "challengeId": "c52c2f00-d04e-4292-87e9-263c9cbefe87",
+    "realPnl": -1393,
+    "unrealPnl": -4749,
+    "rankingPnl": -6142
+  },
+  {
+    "rank": 473,
+    "email": "jig***@hotkev.com",
+    "challengeId": "706586f3-f1e2-482c-b615-43bd88ef4b9f",
+    "realPnl": -3267,
+    "unrealPnl": -2876,
+    "rankingPnl": -6142
+  },
+  {
+    "rank": 474,
+    "email": "sca***@gmail.com",
+    "challengeId": "d836605e-9069-45be-8ce2-8980bfdcd678",
+    "realPnl": 10,
+    "unrealPnl": -6168,
+    "rankingPnl": -6158
+  },
+  {
+    "rank": 475,
+    "email": "bau***@mail.ru",
+    "challengeId": "c17ba344-6350-4b6b-ba6b-f298244f9d11",
+    "realPnl": 326,
+    "unrealPnl": -6495,
+    "rankingPnl": -6169
+  },
+  {
+    "rank": 476,
+    "email": "dik***@gmail.com",
+    "challengeId": "7c5f1f1a-28be-44b8-9cd3-81e575aaf324",
+    "realPnl": -1819,
+    "unrealPnl": -4355,
+    "rankingPnl": -6174
+  },
+  {
+    "rank": 477,
+    "email": "rom***@mail.ru",
+    "challengeId": "7f7d1c4a-4109-45bf-97d3-fd2670b99b38",
+    "realPnl": -155,
+    "unrealPnl": -6027,
+    "rankingPnl": -6182
+  },
+  {
+    "rank": 478,
+    "email": "shu***@gmail.com",
+    "challengeId": "4183cceb-c075-4741-9f3a-e8a24d5eff2c",
+    "realPnl": -63,
+    "unrealPnl": -6139,
+    "rankingPnl": -6202
+  },
+  {
+    "rank": 479,
+    "email": "sob***@gmail.com",
+    "challengeId": "bc43203d-9ce1-4fe4-b431-542aa7aebfd0",
+    "realPnl": -150,
+    "unrealPnl": -6058,
+    "rankingPnl": -6208
+  },
+  {
+    "rank": 480,
+    "email": "pro***@mail.ru",
+    "challengeId": "33966202-a51d-4cea-9eed-406f447da4a7",
+    "realPnl": -6215,
+    "unrealPnl": 0,
+    "rankingPnl": -6215
+  },
+  {
+    "rank": 481,
+    "email": "rud***@mail.ru",
+    "challengeId": "56ce8105-3c30-4f21-94c6-bba6435c48c4",
+    "realPnl": -224,
+    "unrealPnl": -5997,
+    "rankingPnl": -6221
+  },
+  {
+    "rank": 482,
+    "email": "mr.***@gmail.com",
+    "challengeId": "ca6e4ee6-2ae0-4a40-a685-17203cff1dd8",
+    "realPnl": 2581,
+    "unrealPnl": -8807,
+    "rankingPnl": -6226
+  },
+  {
+    "rank": 483,
+    "email": "fre***@gmail.com",
+    "challengeId": "e3bcbf09-587a-4e31-b8d4-d1cb8da0b386",
+    "realPnl": -817,
+    "unrealPnl": -5446,
+    "rankingPnl": -6263
+  },
+  {
+    "rank": 484,
+    "email": "ati***@gmail.com",
+    "challengeId": "19333605-706c-40d7-8b1d-f1f579d9a7c5",
+    "realPnl": -92,
+    "unrealPnl": -6201,
+    "rankingPnl": -6293
+  },
+  {
+    "rank": 485,
+    "email": "the***@gmail.com",
+    "challengeId": "a4230790-47e3-4473-aa9b-3c1196dc5092",
+    "realPnl": -149,
+    "unrealPnl": -6220,
+    "rankingPnl": -6368
+  },
+  {
+    "rank": 486,
+    "email": "ish***@gmail.com",
+    "challengeId": "2bada15d-efbb-4802-99a4-703e065933e9",
+    "realPnl": -120,
+    "unrealPnl": -6261,
+    "rankingPnl": -6381
+  },
+  {
+    "rank": 487,
+    "email": "i4r***@yandex.ru",
+    "challengeId": "10614881-73c6-4486-8229-032ff68cbf92",
+    "realPnl": -3051,
+    "unrealPnl": -3330,
+    "rankingPnl": -6382
+  },
+  {
+    "rank": 488,
+    "email": "evg***@gmail.com",
+    "challengeId": "92298090-4ec7-404b-9097-ca8415d7bcd5",
+    "realPnl": -370,
+    "unrealPnl": -6038,
+    "rankingPnl": -6408
+  },
+  {
+    "rank": 489,
+    "email": "ver***@icloud.com",
+    "challengeId": "814461ee-4fcf-4432-8f5e-88eedc70c35a",
+    "realPnl": -4868,
+    "unrealPnl": -1563,
+    "rankingPnl": -6431
+  },
+  {
+    "rank": 490,
+    "email": "xas***@gmail.com",
+    "challengeId": "6c6ee16e-b6ee-4f27-8364-541f8cc309b5",
+    "realPnl": -893,
+    "unrealPnl": -5547,
+    "rankingPnl": -6440
+  },
+  {
+    "rank": 491,
+    "email": "ari***@gmail.com",
+    "challengeId": "fb5f74d3-92d9-4084-866b-c52f1edc6841",
+    "realPnl": -415,
+    "unrealPnl": -6039,
+    "rankingPnl": -6454
+  },
+  {
+    "rank": 492,
+    "email": "val***@gmail.com",
+    "challengeId": "7b042c28-676c-4b5f-8af6-d053acb645b0",
+    "realPnl": -4219,
+    "unrealPnl": -2241,
+    "rankingPnl": -6460
+  },
+  {
+    "rank": 493,
+    "email": "ily***@yandex.ru",
+    "challengeId": "3fe5b50d-cf22-41c9-b26c-27196ed47c2b",
+    "realPnl": -3864,
+    "unrealPnl": -2599,
+    "rankingPnl": -6463
+  },
+  {
+    "rank": 494,
+    "email": "wor***@gmail.com",
+    "challengeId": "d205da08-36ab-499b-ba57-3fe1627ec154",
+    "realPnl": -74,
+    "unrealPnl": -6391,
+    "rankingPnl": -6465
+  },
+  {
+    "rank": 495,
+    "email": "ak1***@yandex.ru",
+    "challengeId": "a613e72d-530d-4c99-9936-4fb709676e4b",
+    "realPnl": -387,
+    "unrealPnl": -6102,
+    "rankingPnl": -6489
+  },
+  {
+    "rank": 496,
+    "email": "pro***@gmail.com",
+    "challengeId": "ffa50e3e-a8b1-4e80-bb8e-79c7406c08c1",
+    "realPnl": 477,
+    "unrealPnl": -6983,
+    "rankingPnl": -6505
+  },
+  {
+    "rank": 497,
+    "email": "904***@gmail.com",
+    "challengeId": "2beed8c2-9f43-4cc1-8f61-1568f4b92d1e",
+    "realPnl": -286,
+    "unrealPnl": -6232,
+    "rankingPnl": -6518
+  },
+  {
+    "rank": 498,
+    "email": "enr***@gmail.com",
+    "challengeId": "a8979006-f6b0-4a2e-a4d9-e0108813fbae",
+    "realPnl": -6205,
+    "unrealPnl": -319,
+    "rankingPnl": -6524
+  },
+  {
+    "rank": 499,
+    "email": "ope***@bk.ru",
+    "challengeId": "30d7d312-e1e6-4786-aa6f-4489b8ce0294",
+    "realPnl": 578,
+    "unrealPnl": -7109,
+    "rankingPnl": -6532
+  },
+  {
+    "rank": 500,
+    "email": "den***@gmail.com",
+    "challengeId": "56485d09-5290-43e3-a8f2-c6a7034f834e",
+    "realPnl": -6231,
+    "unrealPnl": -314,
+    "rankingPnl": -6544
+  },
+  {
+    "rank": 501,
+    "email": "alb***@gmail.com",
+    "challengeId": "509e21cf-35c2-47f9-a3a8-c8cacb51b568",
+    "realPnl": -1077,
+    "unrealPnl": -5498,
+    "rankingPnl": -6574
+  },
+  {
+    "rank": 502,
+    "email": "cry***@yahoo.com",
+    "challengeId": "6a4b6d1e-1a10-45db-b0cc-69f956c31dac",
+    "realPnl": -80,
+    "unrealPnl": -6497,
+    "rankingPnl": -6578
+  },
+  {
+    "rank": 503,
+    "email": "k1m***@gmail.com",
+    "challengeId": "1cb45150-b04c-415c-8b26-16020e2219a9",
+    "realPnl": -4016,
+    "unrealPnl": -2622,
+    "rankingPnl": -6638
+  },
+  {
+    "rank": 504,
+    "email": "cry***@proton.me",
+    "challengeId": "f9fe705e-7073-4624-9b54-47b5935aaacc",
+    "realPnl": -6682,
+    "unrealPnl": 8,
+    "rankingPnl": -6673
+  },
+  {
+    "rank": 505,
+    "email": "vis***@gmail.com",
+    "challengeId": "61d6aa61-05ef-4620-8ddb-5157ad2b898e",
+    "realPnl": -1025,
+    "unrealPnl": -5702,
+    "rankingPnl": -6727
+  },
+  {
+    "rank": 506,
+    "email": "agr***@gmail.com",
+    "challengeId": "595cbd19-7462-4c64-b5cb-e474fed1b378",
+    "realPnl": 2077,
+    "unrealPnl": -8823,
+    "rankingPnl": -6746
+  },
+  {
+    "rank": 507,
+    "email": "ale***@yandex.ru",
+    "challengeId": "5ed274d2-385e-4796-ab98-0a2dadc23949",
+    "realPnl": -777,
+    "unrealPnl": -5972,
+    "rankingPnl": -6749
+  },
+  {
+    "rank": 508,
+    "email": "mrr***@gmail.com",
+    "challengeId": "f1eb25c1-202a-4060-ba56-e1a5c8eb4f52",
+    "realPnl": -1584,
+    "unrealPnl": -5166,
+    "rankingPnl": -6750
+  },
+  {
+    "rank": 509,
+    "email": "mia***@list.ru",
+    "challengeId": "26c3b416-56ab-4016-b653-5b01eaee738b",
+    "realPnl": -146,
+    "unrealPnl": -6626,
+    "rankingPnl": -6772
+  },
+  {
+    "rank": 510,
+    "email": "kir***@gmail.com",
+    "challengeId": "d5e727b3-cfbd-4f2e-94ca-95bf5fc5df84",
+    "realPnl": -6546,
+    "unrealPnl": -229,
+    "rankingPnl": -6774
+  },
+  {
+    "rank": 511,
+    "email": "69a***@gmail.com",
+    "challengeId": "8ae4d549-fe15-49e4-89e7-fb5f218bdf5f",
+    "realPnl": 273,
+    "unrealPnl": -7174,
+    "rankingPnl": -6901
+  },
+  {
+    "rank": 512,
+    "email": "707***@gmail.com",
+    "challengeId": "255006bf-5cec-483f-94c5-9c903fab6066",
+    "realPnl": -201,
+    "unrealPnl": -6746,
+    "rankingPnl": -6947
+  },
+  {
+    "rank": 513,
+    "email": "41m***@icloud.com",
+    "challengeId": "215201b7-08e6-4b1c-b399-1a0d9413faaf",
+    "realPnl": -594,
+    "unrealPnl": -6371,
+    "rankingPnl": -6965
+  },
+  {
+    "rank": 514,
+    "email": "sky***@gmail.com",
+    "challengeId": "8cc5941a-c5d6-46d5-bf4e-60f3506eb24e",
+    "realPnl": 538,
+    "unrealPnl": -7549,
+    "rankingPnl": -7012
+  },
+  {
+    "rank": 515,
+    "email": "tim***@bncinema.com",
+    "challengeId": "668f9153-80cc-4b3a-a503-bc0fea2e0b69",
+    "realPnl": -50,
+    "unrealPnl": -6963,
+    "rankingPnl": -7013
+  },
+  {
+    "rank": 516,
+    "email": "war***@mail.ru",
+    "challengeId": "2b0d27b9-8052-4d78-b4bc-43ec9630554a",
+    "realPnl": -857,
+    "unrealPnl": -6166,
+    "rankingPnl": -7023
+  },
+  {
+    "rank": 517,
+    "email": "cry***@gmail.com",
+    "challengeId": "c2de6687-760e-4fa4-bdfd-6a2efda7928f",
+    "realPnl": -6,
+    "unrealPnl": -7071,
+    "rankingPnl": -7077
+  },
+  {
+    "rank": 518,
+    "email": "bob***@gmail.com",
+    "challengeId": "353211c6-ad82-422b-b65a-1a8867513ef3",
+    "realPnl": -117,
+    "unrealPnl": -7037,
+    "rankingPnl": -7154
+  },
+  {
+    "rank": 519,
+    "email": "tab***@gmail.com",
+    "challengeId": "8393fcaf-bb19-4151-a5e3-e77b6cf30068",
+    "realPnl": -1699,
+    "unrealPnl": -5462,
+    "rankingPnl": -7160
+  },
+  {
+    "rank": 520,
+    "email": "nur***@gmail.com",
+    "challengeId": "a69989b3-bfd2-49f2-86d9-abbcc114e2e1",
+    "realPnl": 2895,
+    "unrealPnl": -10062,
+    "rankingPnl": -7168
+  },
+  {
+    "rank": 521,
+    "email": "c4.***@gmail.com",
+    "challengeId": "a3bb8bc5-31f7-4558-b6bc-c171d2d1978a",
+    "realPnl": -4356,
+    "unrealPnl": -2999,
+    "rankingPnl": -7355
+  },
+  {
+    "rank": 522,
+    "email": "myk***@gmail.com",
+    "challengeId": "dc6593a9-ccb6-4dd2-90a6-cdfc02806da7",
+    "realPnl": -2247,
+    "unrealPnl": -5215,
+    "rankingPnl": -7462
+  },
+  {
+    "rank": 523,
+    "email": "a77***@gmail.com",
+    "challengeId": "4d8abd7a-5b5e-4b1b-8804-5452bee51e8d",
+    "realPnl": -3352,
+    "unrealPnl": -4118,
+    "rankingPnl": -7470
+  },
+  {
+    "rank": 524,
+    "email": "pog***@mail.ru",
+    "challengeId": "939e3e0b-d427-4fd2-b89a-7cc96e8bdec0",
+    "realPnl": -2295,
+    "unrealPnl": -5207,
+    "rankingPnl": -7502
+  },
+  {
+    "rank": 525,
+    "email": "ivk***@gmail.com",
+    "challengeId": "f81c9516-b079-4234-bd83-36f7e6c18fe6",
+    "realPnl": -90,
+    "unrealPnl": -7467,
+    "rankingPnl": -7557
+  },
+  {
+    "rank": 526,
+    "email": "kri***@gmail.com",
+    "challengeId": "15af1726-0244-4221-b0f0-a4915d7eda56",
+    "realPnl": -5605,
+    "unrealPnl": -1995,
+    "rankingPnl": -7600
+  },
+  {
+    "rank": 527,
+    "email": "kry***@gmail.com",
+    "challengeId": "de2919b9-975c-4bd1-be49-0c7a0d3a5d00",
+    "realPnl": -6768,
+    "unrealPnl": -838,
+    "rankingPnl": -7605
+  },
+  {
+    "rank": 528,
+    "email": "ilk***@gmail.com",
+    "challengeId": "df351e5e-c9a9-4d0d-9c2b-cfe2e03ce609",
+    "realPnl": -2056,
+    "unrealPnl": -5608,
+    "rankingPnl": -7663
+  },
+  {
+    "rank": 529,
+    "email": "ana***@gmail.com",
+    "challengeId": "b9ed3694-f323-4295-8b8b-4feced1ac2c4",
+    "realPnl": -2326,
+    "unrealPnl": -5357,
+    "rankingPnl": -7683
+  },
+  {
+    "rank": 530,
+    "email": "s13***@gmail.com",
+    "challengeId": "b2e7b313-b2fd-41e1-98f0-712c8a47d923",
+    "realPnl": -6417,
+    "unrealPnl": -1269,
+    "rankingPnl": -7686
+  },
+  {
+    "rank": 531,
+    "email": "sem***@gmail.com",
+    "challengeId": "b3cdbcdf-7c74-41f0-822d-bafb25e57ac1",
+    "realPnl": -2518,
+    "unrealPnl": -5176,
+    "rankingPnl": -7694
+  },
+  {
+    "rank": 532,
+    "email": "sax***@mail.ru",
+    "challengeId": "91e52b59-99a0-4dbf-8b52-9a3e92c523ec",
+    "realPnl": -6512,
+    "unrealPnl": -1201,
+    "rankingPnl": -7712
+  },
+  {
+    "rank": 533,
+    "email": "tan***@bk.ru",
+    "challengeId": "d3b633a4-a3b3-47ef-915b-fd9aa9a67bd8",
+    "realPnl": -1587,
+    "unrealPnl": -6231,
+    "rankingPnl": -7818
+  },
+  {
+    "rank": 534,
+    "email": "dan***@gmail.com",
+    "challengeId": "7d67b80b-e20d-48f7-94a8-47f3e159f448",
+    "realPnl": -2876,
+    "unrealPnl": -5177,
+    "rankingPnl": -8053
+  },
+  {
+    "rank": 535,
+    "email": "ste***@gmail.com",
+    "challengeId": "f1c7dea8-277f-43d7-851a-072c905b9cc3",
+    "realPnl": -7736,
+    "unrealPnl": -382,
+    "rankingPnl": -8118
+  },
+  {
+    "rank": 536,
+    "email": "cta***@yandex.ru",
+    "challengeId": "f16a612d-d8d1-41d0-96fc-87243b3e4bc2",
+    "realPnl": -1535,
+    "unrealPnl": -6734,
+    "rankingPnl": -8269
+  },
+  {
+    "rank": 537,
+    "email": "mwi***@gmail.com",
+    "challengeId": "dfecea21-47a8-4290-b995-8a4ebefd50c0",
+    "realPnl": -8345,
+    "unrealPnl": 0,
+    "rankingPnl": -8345
+  },
+  {
+    "rank": 538,
+    "email": "ne3***@gmail.com",
+    "challengeId": "2c013e0a-c39e-46a2-96dc-614a467cd5e8",
+    "realPnl": -181,
+    "unrealPnl": -8237,
+    "rankingPnl": -8418
+  },
+  {
+    "rank": 539,
+    "email": "leo***@gmail.com",
+    "challengeId": "c2b69098-f778-4807-b282-1c485aee0166",
+    "realPnl": -6897,
+    "unrealPnl": -1659,
+    "rankingPnl": -8557
+  },
+  {
+    "rank": 540,
+    "email": "tum***@gmail.com",
+    "challengeId": "3f8df05c-9b0f-4764-9633-93165f981b55",
+    "realPnl": -3382,
+    "unrealPnl": -5196,
+    "rankingPnl": -8578
+  },
+  {
+    "rank": 541,
+    "email": "reg***@mail.ru",
+    "challengeId": "aa648814-336e-4310-84f3-065e3dd71f87",
+    "realPnl": -5482,
+    "unrealPnl": -3176,
+    "rankingPnl": -8658
+  },
+  {
+    "rank": 542,
+    "email": "gey***@bncinema.com",
+    "challengeId": "644463d1-acda-4441-bdb1-cacf67a1d9d4",
+    "realPnl": -82,
+    "unrealPnl": -8756,
+    "rankingPnl": -8838
+  },
+  {
+    "rank": 543,
+    "email": "rum***@mail.ru",
+    "challengeId": "2ee60090-b5e9-4ed9-94f3-126a2031d3b0",
+    "realPnl": -3760,
+    "unrealPnl": -5108,
+    "rankingPnl": -8868
+  },
+  {
+    "rank": 544,
+    "email": "ski***@gmail.com",
+    "challengeId": "4110a9c5-2bd9-4789-8822-188fca3f3bbc",
+    "realPnl": -5905,
+    "unrealPnl": -3020,
+    "rankingPnl": -8925
+  },
+  {
+    "rank": 545,
+    "email": "rom***@mail.ru",
+    "challengeId": "241e3757-f2ca-447f-95a6-9ee304e12d46",
+    "realPnl": -722,
+    "unrealPnl": -8289,
+    "rankingPnl": -9011
+  },
+  {
+    "rank": 546,
+    "email": "jho***@gmail.com",
+    "challengeId": "5af2ae51-a71a-4cab-9ac0-ff2dd826016a",
+    "realPnl": -4735,
+    "unrealPnl": -4312,
+    "rankingPnl": -9047
+  },
+  {
+    "rank": 547,
+    "email": "geo***@gmail.com",
+    "challengeId": "358bc9f0-9195-4f55-963e-31af146b452b",
+    "realPnl": -5984,
+    "unrealPnl": -3293,
+    "rankingPnl": -9277
+  },
+  {
+    "rank": 548,
+    "email": "val***@gmail.com",
+    "challengeId": "67f36242-7c4b-42dd-aae4-c3c1518d20e0",
+    "realPnl": -9166,
+    "unrealPnl": -266,
+    "rankingPnl": -9431
+  },
+  {
+    "rank": 549,
+    "email": "ale***@gmail.com",
+    "challengeId": "78e740be-07c3-4e3e-ba3f-edf33d40b0dc",
+    "realPnl": -3972,
+    "unrealPnl": -5525,
+    "rankingPnl": -9497
+  },
+  {
+    "rank": 550,
+    "email": "has***@gmail.com",
+    "challengeId": "51bbf75c-703b-4227-b893-9b0bd895baa8",
+    "realPnl": -3402,
+    "unrealPnl": -6310,
+    "rankingPnl": -9712
+  },
+  {
+    "rank": 551,
+    "email": "s.z***@gmail.com",
+    "challengeId": "45b8aa2f-3f34-49ae-ab70-6f7e67e123d7",
+    "realPnl": -4712,
+    "unrealPnl": -5159,
+    "rankingPnl": -9871
+  },
+  {
+    "rank": 552,
+    "email": "ale***@gmail.com",
+    "challengeId": "add507bb-60b5-4a0f-9a67-9ea0af8ba2ef",
+    "realPnl": -10048,
+    "unrealPnl": 0,
+    "rankingPnl": -10048
+  },
+  {
+    "rank": 553,
+    "email": "myy***@gmail.com",
+    "challengeId": "34665c09-0f83-4cbf-90a4-29f2d3d211d4",
+    "realPnl": -8584,
+    "unrealPnl": -1512,
+    "rankingPnl": -10096
+  },
+  {
+    "rank": 554,
+    "email": "omn***@gmail.com",
+    "challengeId": "8ace8f20-9221-4b0c-abbf-31fdebe99dc9",
+    "realPnl": -4862,
+    "unrealPnl": -5247,
+    "rankingPnl": -10109
+  },
+  {
+    "rank": 555,
+    "email": "mas***@gmail.com",
+    "challengeId": "f6d449d1-a6a8-4818-a407-15bf3c3d7188",
+    "realPnl": -9386,
+    "unrealPnl": -729,
+    "rankingPnl": -10115
+  },
+  {
+    "rank": 556,
+    "email": "ant***@yandex.ru",
+    "challengeId": "8dc2a550-3277-4056-a80f-bd11cb63eb55",
+    "realPnl": -8959,
+    "unrealPnl": -1156,
+    "rankingPnl": -10115
+  },
+  {
+    "rank": 557,
+    "email": "dan***@yandex.ru",
+    "challengeId": "fbf8fb7b-d22f-47c6-a12d-0ef76fb29622",
+    "realPnl": -10158,
+    "unrealPnl": 0,
+    "rankingPnl": -10158
+  },
+  {
+    "rank": 558,
+    "email": "aaa***@gmail.com",
+    "challengeId": "ad3a94f7-2a1a-46d3-8c66-15a9f58a144b",
+    "realPnl": -9128,
+    "unrealPnl": -1141,
+    "rankingPnl": -10269
+  },
+  {
+    "rank": 559,
+    "email": "kor***@mail.ru",
+    "challengeId": "349817ef-3f9b-4805-856f-9953fe0a191d",
+    "realPnl": -10440,
+    "unrealPnl": 165,
+    "rankingPnl": -10275
+  },
+  {
+    "rank": 560,
+    "email": "kar***@list.ru",
+    "challengeId": "0f84a642-7b64-4b18-9a53-98faa0cab141",
+    "realPnl": -4799,
+    "unrealPnl": -5476,
+    "rankingPnl": -10275
+  },
+  {
+    "rank": 561,
+    "email": "and***@mail.ru",
+    "challengeId": "6a3b2867-efcc-4057-8421-8630aeb8a3bd",
+    "realPnl": -9145,
+    "unrealPnl": -1182,
+    "rankingPnl": -10327
+  },
+  {
+    "rank": 562,
+    "email": "kri***@gmail.com",
+    "challengeId": "3b793685-ae59-40b4-b3b0-5c9c6cb75b6d",
+    "realPnl": -10354,
+    "unrealPnl": 0,
+    "rankingPnl": -10354
+  },
+  {
+    "rank": 563,
+    "email": "ovk***@mail.ru",
+    "challengeId": "b2dd1cb2-b09d-40e0-a596-d0047525ef4d",
+    "realPnl": -5702,
+    "unrealPnl": -4654,
+    "rankingPnl": -10356
+  },
+  {
+    "rank": 564,
+    "email": "sem***@gmail.com",
+    "challengeId": "5e16fe6c-c331-4eef-9b39-97e42b73fc94",
+    "realPnl": -7628,
+    "unrealPnl": -2738,
+    "rankingPnl": -10366
+  },
+  {
+    "rank": 565,
+    "email": "poz***@gmail.com",
+    "challengeId": "1afd98c0-475d-4890-a7a4-9f85c116e405",
+    "realPnl": -8494,
+    "unrealPnl": -1919,
+    "rankingPnl": -10413
+  },
+  {
+    "rank": 566,
+    "email": "zew***@gmail.com",
+    "challengeId": "2a606767-0699-44ba-b4e5-a114f455bf59",
+    "realPnl": -6112,
+    "unrealPnl": -4343,
+    "rankingPnl": -10454
+  },
+  {
+    "rank": 567,
+    "email": "ale***@yandex.ru",
+    "challengeId": "f9eed774-e031-410d-ae2a-54214b7c3c6a",
+    "realPnl": -8852,
+    "unrealPnl": -1626,
+    "rankingPnl": -10478
+  },
+  {
+    "rank": 568,
+    "email": "ami***@gmail.com",
+    "challengeId": "5f2ac057-f591-4ffc-b3b9-c1bf43fc067c",
+    "realPnl": -118,
+    "unrealPnl": -10521,
+    "rankingPnl": -10639
+  },
+  {
+    "rank": 569,
+    "email": "rus***@yandex.ru",
+    "challengeId": "f19d9fdd-df3d-49a8-b597-fdbed6836379",
+    "realPnl": -3696,
+    "unrealPnl": -6955,
+    "rankingPnl": -10651
+  },
+  {
+    "rank": 570,
+    "email": "jur***@mail.ru",
+    "challengeId": "3c4b291c-70e7-42d0-92cc-e01528dae711",
+    "realPnl": -10206,
+    "unrealPnl": -464,
+    "rankingPnl": -10670
+  },
+  {
+    "rank": 571,
+    "email": "var***@mail.ru",
+    "challengeId": "1222f756-b5b3-4ad0-8736-60f724233755",
+    "realPnl": -5081,
+    "unrealPnl": -5686,
+    "rankingPnl": -10766
+  },
+  {
+    "rank": 572,
+    "email": "1ex***@gmail.com",
+    "challengeId": "11086167-69f2-411a-8262-bb53c0f8aa62",
+    "realPnl": -8790,
+    "unrealPnl": -1981,
+    "rankingPnl": -10771
+  },
+  {
+    "rank": 573,
+    "email": "ada***@gmail.com",
+    "challengeId": "3c3bdecb-e786-47a6-aec5-7b3bc0a20a81",
+    "realPnl": -5289,
+    "unrealPnl": -5835,
+    "rankingPnl": -11125
+  },
+  {
+    "rank": 574,
+    "email": "vla***@gmail.com",
+    "challengeId": "a24fc9f2-cca9-4d18-9171-ca485c5833ea",
+    "realPnl": -11011,
+    "unrealPnl": -138,
+    "rankingPnl": -11149
+  },
+  {
+    "rank": 575,
+    "email": "veg***@gmail.com",
+    "challengeId": "e454ea28-4f57-4745-b59a-779b6a5544b2",
+    "realPnl": -11273,
+    "unrealPnl": 0,
+    "rankingPnl": -11273
+  },
+  {
+    "rank": 576,
+    "email": "eka***@icloud.com",
+    "challengeId": "e54693c5-9f81-4a7b-95d9-eec3a64bcbfb",
+    "realPnl": -5069,
+    "unrealPnl": -6616,
+    "rankingPnl": -11685
+  },
+  {
+    "rank": 577,
+    "email": "sed***@gmail.com",
+    "challengeId": "26221f38-ff99-49d7-913b-76729c9ff4f4",
+    "realPnl": -6115,
+    "unrealPnl": -9193,
+    "rankingPnl": -15307
+  }
+]
